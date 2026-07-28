@@ -684,6 +684,103 @@ const albums = [
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
     },
+    {
+    id: 31,
+
+    title: "The Cross of Changes",
+
+    artist: "Enigma",
+
+    year: 1994,
+
+    country: "Germany",
+
+    genres: [
+      "New Age",
+      "Downtempo",
+      
+    ],
+     rating: 5,
+
+
+    cover: "/covers/31.jpg",
+
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_kZcYu06w894YG4jGGDWoY8TwlWgOY9DJ4",
+    },
+    {
+    id: 32,
+
+    title: "MCMXC a.D.",
+
+    artist: "Enigma",
+
+    year: 1990,
+
+    country: "Germany",
+
+    genres: [
+      "New Age",
+      "Downtempo",
+      "Gregorian",
+      
+    ],
+     rating: 5,
+
+
+    cover: "/covers/32.jpg",
+
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_mDrbRoh7CkLB18_fc_JtKvw215YDHr9PA",
+    },
+    {
+    id: 33,
+
+    title: "Le Roi Est Mort, Vive Le Roi!",
+
+    artist: "Enigma",
+
+    year: 1996,
+
+    country: "Germany",
+
+    genres: [
+      "New Age",
+      "Downtempo",
+      "Gregorian",
+      
+    ],
+     rating: 5,
+
+
+    cover: "/covers/33.jpg",
+
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_l51YF5k5QjNwAqWTPsBeZIx9tQnJiOWa8",
+    },
+    {
+    id: 34,
+
+    title: "The Screen Behind The Mirror",
+
+    artist: "Enigma",
+
+    year: 1999,
+
+    country: "Germany",
+
+    genres: [
+      "New Age",
+      "Gregorian",
+      "Downtempo",
+      
+    ],
+     rating: 4,
+
+
+    cover: "/covers/34.jpg",
+
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_l7iFIJqjH1AGIv8d-W1gZrosLUoQbp93w",
+    },
+
+
 
 
 ];
