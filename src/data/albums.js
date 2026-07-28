@@ -1,47 +1,3 @@
-import SymphonyX01 from "../assets/SymphonyX/Symphony-X-V.webp";
-import SymphonyX02 from "../assets/SymphonyX/Symphony-X-The-divine-wings.png";
-import SymphonyX03 from "../assets/SymphonyX/Symphony-X-Twighlith.jpg";
-
-import Igorrr01 from "../assets/Igorrr/Igorr_01.png";
-import Igorrr02 from "../assets/Igorrr/Igorr_02.png";
-import Igorrr03 from "../assets/Igorrr/Igorr_03.png";
-import Igorrr04 from "../assets/Igorrr/Igorr_04.png";
-import Igorrr05 from "../assets/Igorrr/Igorr_05.png";
-import Igorrr06 from "../assets/Igorrr/Igorr_06.png";
-import Igorrr07 from "../assets/Igorrr/Igorr_07.png";
-
-import JackStauber01 from "../assets/JackStauber/JackStauber_01.jpg";
-
-import Burzum01 from "../assets/Burzum/Burzum_01.png";
-
-import MarilynManson01 from "../assets/MarilynManson/MarilynManson_01.png";
-
-import Rammstein01 from "../assets/Rammstein/Rammstein_01.jpg";
-
-import Soad01 from "../assets/SOAD/Soad_01.jpg";
-import Soad02 from "../assets/SOAD/Soad_02.jpg";
-import Soad03 from "../assets/SOAD/Soad_03.jpg";
-import Soad04 from "../assets/SOAD/Soad_04.jpg";
-import Soad05 from "../assets/SOAD/Soad_05.jpg";
-
-import Portishead01 from "../assets/Portishead/portished_01.jpg";
-
-import Webinar01 from "../assets/Webinar/Webinar_01.jpg";
-
-import MacintoshPlus01 from "../assets/MacintoshPlus/MacintoshPlus_01.jpg";
-
-import DSFWAN01 from "../assets/Dsfwan/DSFWAN01.webp";
-
-import Fyfe01 from "../assets/Fyfe/Fyfe01.webp";
-
-import Mika01 from "../assets/Mika/Mika01.webp";
-
-import CaravanPalace01 from "../assets/CaravanPalace/CaravanPalace_01.webp";
-import CaravanPalace02 from "../assets/CaravanPalace/CaravanPalace_02.webp";
-import CaravanPalace03 from "../assets/CaravanPalace/CaravanPalace_03.webp";
-import CaravanPalace04 from "../assets/CaravanPalace/CaravanPalace_04.webp";
-import CaravanPalace05 from "../assets/CaravanPalace/CaravanPalace_05.webp";
-
 
 const albums = [
 
@@ -63,7 +19,7 @@ const albums = [
 
     rating: 5,
 
-    cover: SymphonyX01,
+    cover: "/covers/Symphony-X-01.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mHHiAV4mENhu91wcRGZD6HfLOawCBiRmM"
   },
@@ -86,7 +42,7 @@ const albums = [
 
     rating: 3,
 
-    cover: SymphonyX02,
+    cover: "/covers/Symphony-X-02.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nJvO3Tlodjud31G5PB545-o8CCsSE8dFk"
   },
@@ -109,7 +65,7 @@ const albums = [
      rating: 2,
 
 
-    cover: SymphonyX03,
+    cover: "/covers/Symphony-X-03.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_lrUWXdVyLUnUaD7ohJV0COk3Q8oS73hzk"
   },
@@ -133,7 +89,7 @@ const albums = [
      rating: 3,
 
 
-    cover: Igorrr01,
+    cover: "/covers/Igorrr_01.png",
 
     link: "https://www.youtube.com/watch?v=-8oPkeGsn6c",
     },
@@ -157,7 +113,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Igorrr02,
+    cover: "/covers/Igorrr_02.png",
 
     link: "https://www.youtube.com/watch?v=TNUzLdJaYWI",
     },
@@ -181,7 +137,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Igorrr03,
+    cover: "/covers/Igorrr_03.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muSTbvn7J0gi4-nkt5Z3etol5GtHMcRfw",
     },
@@ -205,7 +161,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Igorrr04,
+    cover: "/covers/Igorrr_04.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kQKbPr_sgcdBRZGrpzysDS68TszhWAZV4",
     },
@@ -229,7 +185,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Igorrr05,
+    cover: "/covers/Igorrr_05.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muOJxRmVB5mSrCNYEHU_g2vr6t6FprlmM",
     },
@@ -253,7 +209,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Igorrr06,
+    cover: "/covers/Igorrr_06.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_k3r0xQfnS2XpaG8CSk6Kn5upIMqTP7MBU",
     },
@@ -276,7 +232,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Igorrr07,
+    cover: "/covers/Igorrr_07.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nmq4-rfcWad4OIuBpBnZxpXjeg8Fx9MvA",
     },
@@ -300,7 +256,7 @@ const albums = [
      rating: 4 ,
 
 
-    cover: JackStauber01,
+    cover: "/covers/JackStauber_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nD8KtQ-4Lzqh82BMaj967n1dlvYYk2rg8",
     },
@@ -323,7 +279,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Burzum01,
+    cover: "/covers/Burzum_01.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nuHUBdFPFE0WMYv5OjyNPWMyXNwILrK3s",
     },
@@ -345,7 +301,7 @@ const albums = [
      rating: 2,
 
 
-    cover: MarilynManson01,
+    cover: "/covers/MarilynManson_01.png",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kGMDW55V_5cF9te_-ptUJEJRo6ujB3oEY",
     },
@@ -368,7 +324,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Rammstein01,
+    cover: "/covers/Rammstein_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE",
     },
@@ -390,7 +346,7 @@ const albums = [
      rating: 3,
 
 
-    cover: Soad01,
+    cover: "/covers/Soad_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c",
     },
@@ -412,7 +368,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Soad02,
+    cover: "/covers/Soad_02.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M",
     },
@@ -434,7 +390,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Soad05,
+    cover: "/covers/Soad_05.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kl1YbaJ6oBfy2Jb_LXzH4AG04r_62KYMs",
     },
@@ -456,7 +412,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Soad03,
+    cover: "/covers/Soad_03.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mOrlwsA-kRRg1u2xlGlH_H94gom5ZWfzY",
     },
@@ -477,7 +433,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Soad04,
+    cover: "/covers/Soad_04.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kkxCMTEcO5xpKApQRrBzUkhjmM0D1P-m4",
     },
@@ -500,7 +456,7 @@ const albums = [
      rating: 4,
 
 
-    cover: Portishead01,
+    cover: "/covers/Portishead_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_ml6FroEsQ8i3oiTjJNgpTbb-DzmOtxFvU",
     },
@@ -523,7 +479,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Webinar01,
+    cover: "/covers/Webinar_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_koJptgkHvDsyiPRDzZ-CGXAz3_Din7bw0",
     },
@@ -545,7 +501,7 @@ const albums = [
      rating: 5,
 
 
-    cover: MacintoshPlus01,
+    cover: "/covers/MacintoshPlus_01.jpg",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mbbX3kBrywV320XSeQ1aYWELcN2q2szFs",
     },
@@ -569,7 +525,7 @@ const albums = [
      rating: 4,
 
 
-    cover: DSFWAN01,
+    cover: "/covers/DSFWAN01.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mbbX3kBrywV320XSeQ1aYWELcN2q2szFs",
     },
@@ -592,7 +548,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Fyfe01,
+    cover: "/covers/Fyfe_01.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mnoSY2fnpPyXApGWCrZ66LaLcOQnIjfHE",
     },
@@ -614,7 +570,7 @@ const albums = [
      rating: 5,
 
 
-    cover: Mika01,
+    cover: "/covers/Mika_01.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_khywBxQXJQJK-oXzCuJwkxmbuOF7ymuj4",
     },
@@ -636,7 +592,7 @@ const albums = [
      rating: 4,
 
 
-    cover: CaravanPalace01,
+    cover: "/covers/CaravanPalace_01.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kLoBaMBtModkwzwC9PEQR4fVsWwQre-xc",
     },
@@ -658,7 +614,7 @@ const albums = [
      rating: 4,
 
 
-    cover: CaravanPalace02,
+    cover: "/covers/CaravanPalace_02.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_lzx0pDfVntY0u82DwArusrQtv6GbbOkFU",
     },
@@ -680,7 +636,7 @@ const albums = [
      rating: 5,
 
 
-    cover: CaravanPalace03,
+    cover: "/covers/CaravanPalace_03.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mKBLGVYH8F59HG3qxEqtuMOwyhr2QTGo4",
     },
@@ -702,7 +658,7 @@ const albums = [
      rating: 5,
 
 
-    cover: CaravanPalace04,
+    cover: "/covers/CaravanPalace_04.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
     },
@@ -724,7 +680,7 @@ const albums = [
      rating: 5,
 
 
-    cover: CaravanPalace05,
+    cover: "/covers/CaravanPalace_05.webp",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
     },
