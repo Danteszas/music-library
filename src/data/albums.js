@@ -273,7 +273,7 @@ const albums = [
       "Experimental",
       "Baroquecore",
     ],
-     rating: 5,
+     rating: 4,
 
 
     cover: Igorrr07,
