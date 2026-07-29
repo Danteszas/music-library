@@ -1,31 +1,68 @@
+import { useRef, useState } from "react";
+
 function AlbumCard({ album, favorites, setFavorites }) {
 
-const isFavorite = favorites.includes(album.id);
+  const audioRef = useRef(null);
+  const hoverTimeout = useRef(null);
 
-function toggleFavorite(e) {
+  const [isPlaying, setIsPlaying] = useState(false);
 
-  e.preventDefault();
+  const isFavorite = favorites.includes(album.id);
 
-  if (isFavorite) {
+  const handleMouseEnter = () => {
 
-    setFavorites(
-      favorites.filter(id => id !== album.id)
-    );
+    hoverTimeout.current = setTimeout(() => {
 
-  } else {
+      if (!audioRef.current || !album.preview) return;
 
-    setFavorites([
-      ...favorites,
-      album.id
-    ]);
+      audioRef.current.currentTime = 0;
+
+      audioRef.current.play().catch(() => {});
+
+      setIsPlaying(true);
+
+    }, 400);
+
+  };
+
+  const handleMouseLeave = () => {
+
+    clearTimeout(hoverTimeout.current);
+
+    if (!audioRef.current) return;
+
+    audioRef.current.pause();
+
+    audioRef.current.currentTime = 0;
+
+    setIsPlaying(false);
+
+  };
+
+  function toggleFavorite(e) {
+
+    e.preventDefault();
+
+    if (isFavorite) {
+
+      setFavorites(
+        favorites.filter(id => id !== album.id)
+      );
+
+    } else {
+
+      setFavorites([
+        ...favorites,
+        album.id
+      ]);
+
+    }
 
   }
 
-}
   return (
 
     <div className="album-card">
-
 
       <a
         href={album.link}
@@ -33,73 +70,59 @@ function toggleFavorite(e) {
         rel="noopener noreferrer"
       >
 
-
         <div
-
           className="cover"
-
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
           style={{
-            backgroundImage:`url(${album.cover})`
+            backgroundImage: `url(${album.cover})`
           }}
-
-          
-
         >
 
+          {/* Audio invisible */}
+          <audio
+            ref={audioRef}
+            src={album.preview}
+            onEnded={() => setIsPlaying(false)}
+          />
 
           <div className="overlay">
 
+            <h3>{album.title}</h3>
 
-            <h3>
-              {album.title}
-            </h3>
-
-
-            <p>
-              {album.artist}
-            </p>
-
+            <p>{album.artist}</p>
 
             {album.year && (
-              <p>
-                {album.year}
-              </p>
+              <p>{album.year}</p>
             )}
-
 
             {album.genres && (
-              <p>
-                {album.genres.join(" • ")}
-              </p>
+              <p>{album.genres.join(" • ")}</p>
             )}
 
-
             <span>
-              {"★".repeat(album.rating)}
+              {isPlaying
+                ? "♫ Preview"
+                : "★".repeat(album.rating)}
             </span>
 
             <button
-            className="favorite-btn"
-            onClick={toggleFavorite}
+              className="favorite-btn"
+              onClick={toggleFavorite}
             >
-            {isFavorite ? "🔖" : "📑"}
+              {isFavorite ? "🔖" : "📑"}
             </button>
-
 
           </div>
 
-
         </div>
 
-
       </a>
-
 
     </div>
 
   );
 
 }
-
 
 export default AlbumCard;
