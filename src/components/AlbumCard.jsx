@@ -13,7 +13,7 @@ function AlbumCard({ album, favorites, setFavorites }) {
 
     hoverTimeout.current = setTimeout(() => {
 
-      if (!audioRef.current || !album.preview) return;
+      if (!audioRef.current || !album.id) return;
 
       audioRef.current.currentTime = 0;
 
@@ -75,14 +75,15 @@ function AlbumCard({ album, favorites, setFavorites }) {
           onMouseEnter={handleMouseEnter}
           onMouseLeave={handleMouseLeave}
           style={{
-            backgroundImage: `url(${album.cover})`
+            //backgroundImage: `url(${album.cover})`
+              backgroundImage: `url(/covers/${album.id}.jpg)`
           }}
         >
 
           {/* Audio invisible */}
           <audio
             ref={audioRef}
-            src={album.preview}
+            src={`/audio/${album.id}.mp3`} 
             onEnded={() => setIsPlaying(false)}
           />
 

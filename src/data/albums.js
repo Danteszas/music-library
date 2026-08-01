@@ -19,9 +19,6 @@ const albums = [
 
     rating: 5,
 
-    cover: "/covers/1.webp",
-    preview: "/audio/1.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mHHiAV4mENhu91wcRGZD6HfLOawCBiRmM"
   },
 
@@ -43,9 +40,6 @@ const albums = [
 
     rating: 3,
 
-    cover: "/covers/2.png",
-    preview: "/audio/2.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nJvO3Tlodjud31G5PB545-o8CCsSE8dFk"
   },
 
@@ -65,10 +59,6 @@ const albums = [
       "Symphonic Metal"
     ],
      rating: 2,
-
-
-    cover: "/covers/3.jpg",
-    preview: "/audio/3.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_lrUWXdVyLUnUaD7ohJV0COk3Q8oS73hzk"
   },
@@ -90,10 +80,6 @@ const albums = [
     ],
      rating: 3,
 
-
-    cover: "/covers/4.png",
-    preview: "/audio/4.mp3",
-
     link: "https://www.youtube.com/watch?v=-8oPkeGsn6c",
     },
 
@@ -113,10 +99,6 @@ const albums = [
       "Baroquecore",
     ],
      rating: 3,
-
-
-    cover: "/covers/5.png",
-    preview: "/audio/5.mp3",
 
     link: "https://www.youtube.com/watch?v=TNUzLdJaYWI",
     },
@@ -138,10 +120,6 @@ const albums = [
     ],
      rating: 4,
 
-
-    cover: "/covers/6.png",
-    preview: "/audio/6.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muSTbvn7J0gi4-nkt5Z3etol5GtHMcRfw",
     },
 
@@ -161,10 +139,6 @@ const albums = [
       "Baroquecore",
     ],
      rating: 4,
-
-
-    cover: "/covers/7.png",
-    preview: "/audio/7.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kQKbPr_sgcdBRZGrpzysDS68TszhWAZV4",
     },
@@ -187,9 +161,6 @@ const albums = [
      rating: 5,
 
 
-    cover: "/covers/8.png",
-    preview: "/audio/8.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muOJxRmVB5mSrCNYEHU_g2vr6t6FprlmM",
     },
     
@@ -211,8 +182,6 @@ const albums = [
      rating: 3,
 
 
-    cover: "/covers/9.png",
-    preview: "/audio/9.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_k3r0xQfnS2XpaG8CSk6Kn5upIMqTP7MBU",
     },
     {
@@ -231,10 +200,6 @@ const albums = [
       "Baroquecore",
     ],
      rating: 3,
-
-
-    cover: "/covers/10.png",
-    preview: "/audio/10.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nmq4-rfcWad4OIuBpBnZxpXjeg8Fx9MvA",
     },
@@ -257,9 +222,6 @@ const albums = [
      rating: 3,
 
 
-    cover: "/covers/11.jpg",
-    preview: "/audio/11.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nD8KtQ-4Lzqh82BMaj967n1dlvYYk2rg8",
     },
 
@@ -278,11 +240,7 @@ const albums = [
       "Black Metal",
       "Dark Ambient",
     ],
-     rating: 3,
-
-
-    cover: "/covers/12.png",
-    preview: "/audio/12.mp3",
+     rating: 4,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nuHUBdFPFE0WMYv5OjyNPWMyXNwILrK3s",
     },
@@ -302,11 +260,6 @@ const albums = [
       "Industrial Metal",
     ],
      rating: 2,
-
-
-    cover: "/covers/13.png",
-    preview: "/audio/13.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kGMDW55V_5cF9te_-ptUJEJRo6ujB3oEY",
     },
 
@@ -327,10 +280,6 @@ const albums = [
     ],
      rating: 5,
 
-
-    cover: "/covers/14.jpg",
-    preview: "/audio/14.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE",
     },
 
@@ -349,10 +298,6 @@ const albums = [
       "Alternative Metal",
     ],
      rating: 3,
-
-
-    cover: "/covers/15.jpg",
-    preview: "/audio/15.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c",
     },
@@ -373,10 +318,6 @@ const albums = [
     ],
      rating: 4,
 
-
-    cover: "/covers/16.jpg",
-    preview: "/audio/16.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M",
     },
 
@@ -395,10 +336,6 @@ const albums = [
       "Alternative Metal",
     ],
      rating: 3,
-
-
-    cover: "/covers/17.jpg",
-    preview: "/audio/17.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kl1YbaJ6oBfy2Jb_LXzH4AG04r_62KYMs",
     },
@@ -419,10 +356,6 @@ const albums = [
     ],
      rating: 4,
 
-
-    cover: "/covers/18.jpg",
-    preview: "/audio/18.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mOrlwsA-kRRg1u2xlGlH_H94gom5ZWfzY",
     },
     {
@@ -440,10 +373,6 @@ const albums = [
       "Alternative Metal",
     ],
      rating: 5,
-
-
-    cover: "/covers/19.jpg",
-    preview: "/audio/19.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kkxCMTEcO5xpKApQRrBzUkhjmM0D1P-m4",
     },
@@ -465,10 +394,6 @@ const albums = [
     ],
      rating: 3,
 
-
-    cover: "/covers/20.jpg",
-    preview: "/audio/20.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_ml6FroEsQ8i3oiTjJNgpTbb-DzmOtxFvU",
     },
 
@@ -489,10 +414,6 @@ const albums = [
     ],
      rating: 4,
 
-
-    cover: "/covers/21.jpg",
-    preview: "/audio/21.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_koJptgkHvDsyiPRDzZ-CGXAz3_Din7bw0",
     },
 
@@ -512,10 +433,6 @@ const albums = [
     ],
      rating: 5,
 
-
-    cover: "/covers/22.jpg",
-    preview: "/audio/22.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mbbX3kBrywV320XSeQ1aYWELcN2q2szFs",
     },
 
@@ -534,13 +451,8 @@ const albums = [
       "Ambient",
       "Drone",
     ],
-     rating: 3,
-
-
-    cover: "/covers/23.webp",
-    preview: "/audio/23.mp3",
-
-    link: "https://music.youtube.com/playlist?list=OLAK5uy_mbbX3kBrywV320XSeQ1aYWELcN2q2szFs",
+     rating: 4,
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_klb6iSM_8kNkAlfDcxwrCe-i6wowImL-Y",
     },
 
     {
@@ -558,11 +470,7 @@ const albums = [
       "Alt-Pop",
       "Indietronica",
     ],
-     rating: 3,
-
-
-    cover: "/covers/24.webp",
-    preview: "/audio/24.mp3",
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mnoSY2fnpPyXApGWCrZ66LaLcOQnIjfHE",
     },
@@ -582,10 +490,6 @@ const albums = [
       "Pop Rock",
     ],
      rating: 4,
-
-
-    cover: "/covers/25.webp",
-    preview: "/audio/25.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_khywBxQXJQJK-oXzCuJwkxmbuOF7ymuj4",
     },
     {
@@ -605,10 +509,6 @@ const albums = [
     ],
      rating: 3,
 
-
-    cover: "/covers/26.webp",
-    preview: "/audio/26.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kLoBaMBtModkwzwC9PEQR4fVsWwQre-xc",
     },
     {
@@ -627,10 +527,6 @@ const albums = [
       
     ],
      rating: 4,
-
-
-    cover: "/covers/27.webp",
-    preview: "/audio/27.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_lzx0pDfVntY0u82DwArusrQtv6GbbOkFU",
     },
     {
@@ -648,11 +544,7 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 5,
-
-
-    cover: "/covers/28.webp",
-    preview: "/audio/28.mp3",
+     rating: 4,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mKBLGVYH8F59HG3qxEqtuMOwyhr2QTGo4",
     },
@@ -672,10 +564,6 @@ const albums = [
       
     ],
      rating: 4,
-
-
-    cover: "/covers/29.webp",
-    preview: "/audio/29.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
     },
     {
@@ -693,13 +581,9 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 4,
+     rating: 5,
 
-
-    cover: "/covers/30.webp",
-    preview: "/audio/30.mp3",
-
-    link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_kwcJMBHPNhlo04PJNmA53G33qhNdA4KWI",
     },
     {
     id: 31,
@@ -718,10 +602,6 @@ const albums = [
       
     ],
      rating: 5,
-
-
-    cover: "/covers/31.jpg",
-    preview: "/audio/31.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kZcYu06w894YG4jGGDWoY8TwlWgOY9DJ4",
     },
@@ -742,10 +622,6 @@ const albums = [
       
     ],
      rating: 4,
-
-
-    cover: "/covers/32.jpg",
-    preview: "/audio/32.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mDrbRoh7CkLB18_fc_JtKvw215YDHr9PA",
     },
     {
@@ -766,10 +642,6 @@ const albums = [
     ],
      rating: 3,
 
-
-    cover: "/covers/33.jpg",
-    preview: "/audio/33.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_l51YF5k5QjNwAqWTPsBeZIx9tQnJiOWa8",
     },
     {
@@ -789,10 +661,6 @@ const albums = [
       
     ],
      rating: 3,
-
-
-    cover: "/covers/34.jpg",
-    preview:"/audio/34.mp3",
     
     link: "https://music.youtube.com/playlist?list=OLAK5uy_l7iFIJqjH1AGIv8d-W1gZrosLUoQbp93w",
     },
@@ -814,10 +682,6 @@ const albums = [
     ],
      rating: 5,
 
-
-    cover: "/covers/35.jpg",
-    preview: "/audio/35.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nhw9t51QKFp_bSzcuhTIeDqQdZaWhd0Yo",
     },
     {
@@ -837,10 +701,6 @@ const albums = [
       
     ],
      rating: 4,
-
-
-    cover: "/covers/36.jpg",
-    preview: "/audio/36.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mkvOpQojR3Zs758LXZq9eW9hE3gmTb_hQ",
     },
     {
@@ -861,10 +721,6 @@ const albums = [
     ],
      rating: 5,
 
-
-    cover: "/covers/37.jpg",
-    preview: "/audio/37.mp3",
-
     link: "https://music.youtube.com/playlist?list=OLAK5uy_m0_ttVv_8VNTU664TUWy8MTw1toygOJ6ghttps://music.youtube.com/playlist?list=OLAK5uy_m0_ttVv_8VNTU664TUWy8MTw1toygOJ6g",
     },
     {
@@ -884,10 +740,6 @@ const albums = [
       
     ],
      rating: 3,
-
-
-    cover: "/covers/38.jpg",
-    preview: "/audio/38.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mSVVqgqiZ70IB68A8dy6cqqZl1faXhkmc",
     },
     {
@@ -907,10 +759,6 @@ const albums = [
       
     ],
      rating: 5,
-
-
-    cover: "/covers/39.jpg",
-    preview: "/audio/39.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nkJkAN5SvU3BBlVEdL8bCxVp4qRWzJL_A",
     },
     {
@@ -930,10 +778,6 @@ const albums = [
       
     ],
      rating: 2,
-
-
-    cover: "/covers/40.jpg",
-    preview:"/audio/40.mp3",
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nP3Bu0r5BA3yXTCWnK2_fMUys7CN_7fu4",
     },
@@ -956,9 +800,6 @@ const albums = [
     ],
      rating: 4,
 
-
-    cover: "/covers/41.jpg",
-    preview: "/audio/41.mp3",
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nu9jo0Ckz02in37Ak_TEH_5L1kA1D26Vw",
 
     },
@@ -971,7 +812,7 @@ const albums = [
 
     year: 2015,
 
-    country: "USA",
+    country: "Poland",
 
     genres: [
       "Black Metal",
@@ -979,12 +820,379 @@ const albums = [
       
     ],
      rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kFyo3F18c8bhxjjxULtWJDj2ezq75S9go"
+    },
+    {
+    id: 43,
+
+    title: "An Obsession With Kit",
+
+    artist: "Graham Kartna",
+
+    year: 2013,
+
+    country: "Canada",
+
+    genres: [
+      "Digital Fusion",
+      "Glith Pop",
+      
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kogEtWd16875sys7TBPOMNDwh3ZvWREns",
 
 
-    cover: "/covers/42.jpg",
-    preview: "/audio/42.mp3",
     },
 
+    {
+    id: 44,
+
+    title: "Fornnordiska klanger -  The Sounds of Prehistoric Scandinavia",
+
+    artist: "Various Artists",
+
+    year: 1991,
+    country: "Canada",
+
+    genres: [
+      "Digital Fusion",
+      "Glith Pop",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_npPqkodSAr1sOLZbfAgZ_Vn4D3Jjb4AN8",
+
+
+    },
+    {
+    id: 45,
+
+    title: "Floral Shoppe II",
+
+    artist: "Macintosh Plus" ,
+
+    year: 2015,
+    country: "USA",
+
+    genres: [
+      "Vaporwave",
+      "Chopped and Screwed",
+      
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_m5bZVynBrDofWPDt03q8GZGRDc0Yn6QL8",
+
+
+    },
+     {
+    id: 46,
+
+    title: "Home™",
+
+    artist: "PrismCorp Virtual Enterprises",
+
+    year: 2013,
+    country: "USA",
+
+    genres: [
+      "Utopian Virtual",
+      "MIDI Music",
+      
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=hjbZyXod3mc",
+
+
+    },
+    {
+    id: 47,
+
+    title: "16 pièces",
+
+    artist: "Hocus Pocus",
+
+    year: 2013,
+    country: "French",
+
+    genres: [
+      "Jazz Rap",
+      "Acid Jazz",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/watch?v=trWAfKSIuRE&list=OLAK5uy_lFATieT7e_j-T1wOwdmzvt3xi0VysrBp8",
+
+    },
+    {
+    id: 48,
+
+    title: "PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
+
+    artist: "King Gizzard & The Lizard Wizard",
+
+    year: 2023,
+    country: "Australia",
+
+    genres: [
+      "Progressive Metal",
+      "Thrash Metal",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nhhzoJZeNSYk9IFRKLUsqDb8MzxY690so",
+
+    },
+    {
+    id: 49,
+
+    title: "Crystal Castles",
+
+    artist: "Crystal Castles",
+
+    year: 2008,
+    country: "Canada",
+
+    genres: [
+      "Synthpop",
+      "Bitpop",
+      
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lY5wtYA5Oz0-qCDxzmUBAcJHpxHncSzuM",
+
+    },
+    {
+    id: 50,
+
+    title: "Crystal Castles (II)",
+
+    artist: "Crystal Castles",
+
+    year: 2008,
+    country: "Canada",
+
+    genres: [
+      "Synthpop",
+      "Electropop",
+      
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lY5wtYA5Oz0-qCDxzmUBAcJHpxHncSzuM",
+
+    },
+    {
+    id: 51,
+
+    title: "Crystal Castles (III)",
+
+    artist: "Crystal Castles",
+
+    year: 2012,
+    country: "Canada",
+
+    genres: [
+      "Witchhouse",
+      "Synthpop",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nyrRdzEHYAJ3W_MpYQbu4HOjtNvWCrGLQ",
+
+    },
+    {
+    id: 52,
+
+    title: "Amnesty (I)",
+
+    artist: "Crystal Castles",
+
+    year: 2016,
+    country: "Canada",
+
+    genres: [
+      "Witchhouse",
+      "Electropop",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lBWElpYHxbBn74EJtGCEyTwmwfnluyBpk",
+
+    },
+    {
+    id: 53,
+
+    title: "Etazi",
+
+    artist: "Molchat Doma",
+
+    year: 2018,
+    country: "Belarus",
+
+    genres: [
+      "Coldwave",
+      "Post-Punk",
+      
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lVCcRrsXzRr28XGFkdDkUt3svunv-M2gA",
+
+    },
+    {
+    id: 54,
+
+    title: "Tab",
+
+    artist: "Monster Magnet",
+
+    year: 1991,
+    country: "Belarus",
+
+    genres: [
+      "Space Rock",
+      "Stoner Rock",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
+
+    },
+    {
+    id: 55,
+
+    title: "That's Harakiri",
+
+    artist: "Sd Laika",
+
+    year: 2014,
+    country: "USA",
+
+    genres: [
+      "Deconstructed Club",
+      "UK Bass",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
+
+    },
+    {
+    id: 56,
+
+    title: "Radiant Intervals",
+
+    artist: "Eleh",
+
+    year: 2012,
+    country: "USA",
+
+    genres: [
+      "Drone",
+      "Binaural Beats",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
+
+    },
+    {
+    id: 57,
+
+    title: "Blank Banshee 0",
+
+    artist: "Blank Banshee",
+
+    year: 2012,
+    country: "Canada",
+
+    genres: [
+      "Vaportrap",
+      "Wonky",
+      
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=PLugC693tjcR3lWEbXJXfFxNFw8UzPlGUA",
+
+    },
+    {
+    id: 58,
+
+    title: "Blank Banshee I",
+
+    artist: "Blank Banshee",
+
+    year: 2013,
+    country: "Canada",
+
+    genres: [
+      "Vaportrap",
+      "Wonky",
+      
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=PLugC693tjcR0d6BgzXaX6a69RLbD8Rf_W",
+
+    },
+    {
+    id: 58,
+
+    title: "Blank Banshee I",
+
+    artist: "Blank Banshee",
+
+    year: 2013,
+    country: "Canada",
+
+    genres: [
+      "Vaportrap",
+      "Wonky",
+      
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=PLugC693tjcR0d6BgzXaX6a69RLbD8Rf_W",
+
+    },
+    {
+    id: 59,
+
+    title: "Mega",
+
+    artist: "Blank Banshee",
+
+    year: 2016,
+    country: "Canada",
+
+    genres: [
+      "Vaportrap",
+      "Wonky",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=PL9kg-FT8pbhBYQKRFWyTNQrJ4dWm2BoA8",
+
+    },
+    {
+    id: 60,
+
+    title: "Gaia",
+
+    artist: "Blank Banshee",
+
+    year: 2020,
+    country: "Canada",
+
+    genres: [
+      "Vaportrap",
+      "Utopian Virtual",
+      
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mr68_HkupsOZ369OFsjyX15zHlf38VhmI",
+
+    },
+
+
+
+    
 ];
 
 export default albums;
