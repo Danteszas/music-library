@@ -392,7 +392,7 @@ const albums = [
       "Trip Hop",
       "Downtempo",
     ],
-     rating: 3,
+     rating: 4,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_ml6FroEsQ8i3oiTjJNgpTbb-DzmOtxFvU",
     },
@@ -1072,7 +1072,7 @@ const albums = [
       
     ],
      rating: 3,
-     link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
+     link: "https:https://music.youtube.com/playlist?list=OLAK5uy_k2yP_w5Mxj6qpQI963XJUc_lV3f5HR330",
 
     },
     {
@@ -1133,25 +1133,6 @@ const albums = [
 
     },
     {
-    id: 58,
-
-    title: "Blank Banshee I",
-
-    artist: "Blank Banshee",
-
-    year: 2013,
-    country: "Canada",
-
-    genres: [
-      "Vaportrap",
-      "Wonky",
-      
-    ],
-     rating: 4,
-     link: "https://music.youtube.com/playlist?list=PLugC693tjcR0d6BgzXaX6a69RLbD8Rf_W",
-
-    },
-    {
     id: 59,
 
     title: "Mega",
@@ -1189,10 +1170,179 @@ const albums = [
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mr68_HkupsOZ369OFsjyX15zHlf38VhmI",
 
     },
+    {
+    id: 61,
+
+    title: "Do Make Say Think",
+
+    artist: "Do Make Say Think",
+
+    year: 1997,
+    country: "Canada",
+
+    genres: [
+      "Post-Rock",
+      "space Rock revival",
+      
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lRXzCzibSL2DJ-Zm9pBPj1YGzj6-tAn9o",
+
+    },
+    {
+    id: 62,
+
+    title: "III Ritual",
+
+    artist: "StabWounD",
+
+    year: 2013,
+    country: "France",
+
+    genres: [
+      "Death Metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=PLkItm-cOY3MzoeaPmTV307bo4OlqwEn9d",
+    },
+    {
+    id: 63,
+
+    title: "Mount Eerie",
+
+    artist: "Microphones",
+
+    year: 2003,
+    country: "USA",
+
+    genres: [
+      "Avant-Folk",
+      "Psychedelic Folk",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_k52J7WXrRZH5-DZIHyxJ-ASMupoj-Lat0",
+    },
+    {
+    id: 64,
+
+    title: "Night of the Owl",
+
+    artist: "Roland Hanneman",
+
+    year: 1995,
+    country: "England",
+
+    genres: [
+      "New Age",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lOKNwdgYxty5nICN2RMeELzqCYFHVhaUU",
+    },
+    {
+    id: 65,
+
+    title: "UNDERTALE Soundtrack",
+
+    artist: "Toby Fox",
+
+    year: 2015,
+    country: "USA",
+
+    genres: [
+      "Video Game Music",
+      "Digital Fusion",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx",
+    },
+    {
+    id: 66,
+
+    title: "Achievement",
+
+    artist: "Pilotredsun",
+
+    year: 2016,
+    country: "USA",
+
+    genres: [
+      "IDM",
+      "Digital Fusion",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=u1mUiAjHzAI&list=PL-MakMzLrB9AT6pTxBhAK7L-eAwrTiQAS",
+    },
+    {
+    id: 67,
+
+    title: "From Rotting Fantasylands",
+
+    artist: "Nero's day at disneyland",
+
+    year: 2009,
+    country: "USA",
+
+    genres: [
+      "Glitch",
+      "Breakcore",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nLMB9OmKykGeoxGbzpVNN5NaUDOZK1OSw",
+    },
+    {
+    id: 68,
+
+    title: "EP II",
+
+    artist: "Carpenter Brut",
+
+    year: 2013,
+    country: "France",
+
+    genres: [
+      "Dark Synthwave",
+      "Electro house",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nvKBouzId4XwxkWzvQPMKnTDfCkiBCIhc",
+    },
+    {
+    id: 69,
+
+    title: "IM25",
+
+    artist: "Infected Mushroom",
+
+    year: 2022,
+    country: "Israel",
+
+    genres: [
+      "Psytrance",
+      "Electropop",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_khYqL1THmRVmT58oFcFLkBzBfK9GnVcjw",
+    },
+    {
+    id: 70,
+
+    title: "Vicious Delicious",
+
+    artist: "Infected Mushroom",
+
+    year: 2007,
+    country: "Israel",
+
+    genres: [
+      "Full-on Psytrance",
+      "Trance Metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kzcQwd5hlKRJoNjnbXDdIjKug7MEW3V2M",
+    },
 
 
 
-    
 ];
 
 export default albums;
