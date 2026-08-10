@@ -3,15 +3,11 @@ const albums = [
 
   {
     id: 1,
-
     title: "V - The New Mythology Suite",
-
     artist: "Symphony X",
-
     year: 2000,
-
     country: "USA",
-
+    colors:["yellow"],
     genres: [
       "Progressive Metal",
       "Symphonic Metal"
@@ -32,6 +28,8 @@ const albums = [
     year: 1997,
 
     country: "USA",
+    colors:["green"],
+
 
     genres: [
       "Progressive Metal",
@@ -53,6 +51,8 @@ const albums = [
     year: 1998,
 
     country: "USA",
+    colors:["blue"],
+
 
     genres: [
       "Progressive Metal",
@@ -73,6 +73,8 @@ const albums = [
     year: 2006,
 
     country: "France",
+    colors:["beige"],
+
 
     genres: [
       "Breakcore",
@@ -93,6 +95,8 @@ const albums = [
     year: 2008,
 
     country: "France",
+    colors:["green"],
+    
 
     genres: [
       "Breakcore",
@@ -113,6 +117,7 @@ const albums = [
     year: 2010,
 
     country: "France",
+    colors:["green"],
 
     genres: [
       "Breakcore",
@@ -121,9 +126,7 @@ const albums = [
      rating: 4,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muSTbvn7J0gi4-nkt5Z3etol5GtHMcRfw",
-    },
-
-    {
+    }, {
     id: 7,
 
     title: "Savage Sinusoid",
@@ -133,6 +136,7 @@ const albums = [
     year: 2017,
 
     country: "France",
+    colors:["blue"],
 
     genres: [
       "Breakcore",
@@ -153,6 +157,7 @@ const albums = [
     year: 2020,
 
     country: "France",
+    colors:["black","beige"],
 
     genres: [
       "Breakcore",
@@ -174,6 +179,7 @@ const albums = [
     year: 2012,
 
     country: "France",
+    colors:["pink","purple"],
 
     genres: [
       "Breakcore",
@@ -194,6 +200,7 @@ const albums = [
     year: 2025,
 
     country: "France",
+    colors:["beige"],
 
     genres: [
       "Breakcore",
@@ -214,6 +221,7 @@ const albums = [
     year: 2017,
 
     country: "USA",
+    colors:["green","teal"],
 
     genres: [
       "Hypnagogic pop",
@@ -231,6 +239,7 @@ const albums = [
     title: "Filosofem",
 
     artist: "Burzum",
+    colors:["beige"],
 
     year: 1996,
 
@@ -255,6 +264,7 @@ const albums = [
     year: 2000,
 
     country: "USA",
+    colors:["black"],
 
     genres: [
       "Industrial Metal",
@@ -273,6 +283,7 @@ const albums = [
     year: 2001,
 
     country: "Germany",
+    colors:["beige"],
 
     genres: [
       "Industrial Metal",
@@ -298,6 +309,7 @@ const albums = [
       "Alternative Metal",
     ],
      rating: 3,
+     colors:["black"],
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c",
     },
@@ -312,6 +324,7 @@ const albums = [
     year: 2001,
 
     country: "USA",
+    colors:["beige"],
 
     genres: [
       "Alternative Metal",
@@ -331,6 +344,7 @@ const albums = [
     year: 2002,
 
     country: "USA",
+    colors:["black","white"],
 
     genres: [
       "Alternative Metal",
@@ -350,6 +364,7 @@ const albums = [
     year: 2005,
 
     country: "USA",
+    colors:["black"],
 
     genres: [
       "Alternative Metal",
@@ -368,6 +383,7 @@ const albums = [
     year: 2005,
 
     country: "USA",
+    colors:["black"],
 
     genres: [
       "Alternative Metal",
@@ -387,6 +403,7 @@ const albums = [
     year: 1994,
 
     country: "England",
+    colors:["blue"],
 
     genres: [
       "Trip Hop",
@@ -407,6 +424,7 @@ const albums = [
     year: 2021,
 
     country: "England",
+    colors:["blue"],
 
     genres: [
       "Mallsoft",
@@ -427,6 +445,7 @@ const albums = [
     year: 2011,
 
     country: "USA",
+    colors:["pink"],
 
     genres: [
       "Vaporwave",
@@ -446,6 +465,7 @@ const albums = [
     year: 2022,
 
     country: "England",
+    colors:["black","orange"],
 
     genres: [
       "Ambient",
@@ -465,6 +485,7 @@ const albums = [
     year: 2015,
 
     country: "England",
+    colors:["black","multicolor"],
 
     genres: [
       "Alt-Pop",
@@ -485,6 +506,7 @@ const albums = [
     year: 2007,
 
     country: "England",
+    colors:["multicolor"],
 
     genres: [
       "Pop Rock",
@@ -502,6 +524,7 @@ const albums = [
     year: 2008,
 
     country: "France",
+    colors:["red"],
 
     genres: [
       "ElectroSwing",
@@ -521,6 +544,7 @@ const albums = [
     year: 2012,
 
     country: "France",
+    colors:["grey","white"],
 
     genres: [
       "ElectroSwing",
@@ -539,7 +563,7 @@ const albums = [
     year: 2015,
 
     country: "France",
-
+    colors:["blue"],
     genres: [
       "ElectroSwing",
       
@@ -558,6 +582,8 @@ const albums = [
     year: 2019,
 
     country: "France",
+    colors:["red"],
+
 
     genres: [
       "ElectroSwing",
@@ -576,6 +602,7 @@ const albums = [
     year: 2024,
 
     country: "France",
+    colors:["teal"],
 
     genres: [
       "ElectroSwing",
@@ -595,6 +622,7 @@ const albums = [
     year: 1994,
 
     country: "Germany",
+    colors:["black"],
 
     genres: [
       "New Age",
@@ -615,6 +643,7 @@ const albums = [
     year: 1990,
 
     country: "Germany",
+    colors:["black","blue"],
 
     genres: [
       "New Age",
@@ -634,11 +663,10 @@ const albums = [
     year: 1996,
 
     country: "Germany",
-
+    colors:["beige"],
     genres: [
       "New Age",
       "Downtempo",
-      
     ],
      rating: 3,
 
@@ -654,6 +682,7 @@ const albums = [
     year: 1999,
 
     country: "Germany",
+    colors:["beige"],
 
     genres: [
       "New Age",
@@ -674,6 +703,7 @@ const albums = [
     year: 1996,
 
     country: "France",
+    colors:["green","brown"],
 
     genres: [
       "Neoclassical",
@@ -694,6 +724,7 @@ const albums = [
     year: 1997,
 
     country: "Singapore",
+    colors:["orange"],
 
     genres: [
       "Downtempo",
@@ -713,6 +744,7 @@ const albums = [
     year: 2004,
 
     country: "Singapore",
+    colors:["beige","red"],
 
     genres: [
       "Downtempo",
@@ -721,7 +753,7 @@ const albums = [
     ],
      rating: 5,
 
-    link: "https://music.youtube.com/playlist?list=OLAK5uy_m0_ttVv_8VNTU664TUWy8MTw1toygOJ6ghttps://music.youtube.com/playlist?list=OLAK5uy_m0_ttVv_8VNTU664TUWy8MTw1toygOJ6g",
+    link: "https://music.youtube.com/playlist?list=OLAK5uy_m0_ttVv_8VNTU664TUWy8MTw1toygOJ6g",
     },
     {
     id: 38,
@@ -752,6 +784,7 @@ const albums = [
     year: 2020,
 
     country: "Japan",
+    colors:["red"],
 
     genres: [
       "Alternative R&B",
@@ -771,6 +804,7 @@ const albums = [
     year: 1994,
 
     country: "England",
+    colors:["red"],
 
     genres: [
       "New Age",
@@ -784,13 +818,14 @@ const albums = [
 {
     id: 41,
 
-    title: "In Existence",
+    title: "Sacred Spirit II",
 
     artist: "Sacred Spirit",
 
     year: 2000,
 
     country: "USA",
+    colors:["blue"],
 
     genres: [
       "New Age",
@@ -813,6 +848,7 @@ const albums = [
     year: 2015,
 
     country: "Poland",
+    colors:["beige","brown"],
 
     genres: [
       "Black Metal",
@@ -832,6 +868,7 @@ const albums = [
     year: 2013,
 
     country: "Canada",
+    colors:["cyan","blue"],
 
     genres: [
       "Digital Fusion",
@@ -840,8 +877,6 @@ const albums = [
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kogEtWd16875sys7TBPOMNDwh3ZvWREns",
-
-
     },
 
     {
@@ -853,6 +888,7 @@ const albums = [
 
     year: 1991,
     country: "Canada",
+    colors:["beige","brown"],
 
     genres: [
       "Digital Fusion",
@@ -873,6 +909,7 @@ const albums = [
 
     year: 2015,
     country: "USA",
+    colors:["pink"],
 
     genres: [
       "Vaporwave",
@@ -893,6 +930,7 @@ const albums = [
 
     year: 2013,
     country: "USA",
+    colors:["blue"],
 
     genres: [
       "Utopian Virtual",
@@ -912,7 +950,8 @@ const albums = [
     artist: "Hocus Pocus",
 
     year: 2013,
-    country: "French",
+    country: "France",
+    colors:["purple","multicolor"],
 
     genres: [
       "Jazz Rap",
@@ -932,6 +971,7 @@ const albums = [
 
     year: 2023,
     country: "Australia",
+    colors:["yellow"],
 
     genres: [
       "Progressive Metal",
@@ -951,6 +991,7 @@ const albums = [
 
     year: 2008,
     country: "Canada",
+    colors:["brown"],
 
     genres: [
       "Synthpop",
@@ -970,14 +1011,14 @@ const albums = [
 
     year: 2008,
     country: "Canada",
-
+    colors:["grey"],
     genres: [
       "Synthpop",
       "Electropop",
       
     ],
      rating: 5,
-     link: "https://music.youtube.com/playlist?list=OLAK5uy_lY5wtYA5Oz0-qCDxzmUBAcJHpxHncSzuM",
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kyVTh4_Lo9nuO0yjSTnYH-rcwt5kYaXDc",
 
     },
     {
@@ -989,6 +1030,7 @@ const albums = [
 
     year: 2012,
     country: "Canada",
+    colors:["black","purple"],
 
     genres: [
       "Witchhouse",
@@ -1008,6 +1050,7 @@ const albums = [
 
     year: 2016,
     country: "Canada",
+    colors:["green"],
 
     genres: [
       "Witchhouse",
@@ -1027,6 +1070,7 @@ const albums = [
 
     year: 2018,
     country: "Belarus",
+    colors:["beige","blue"],
 
     genres: [
       "Coldwave",
@@ -1046,6 +1090,7 @@ const albums = [
 
     year: 1991,
     country: "Belarus",
+    colors:["teal","green"],
 
     genres: [
       "Space Rock",
@@ -1065,6 +1110,7 @@ const albums = [
 
     year: 2014,
     country: "USA",
+    colors:["white"],
 
     genres: [
       "Deconstructed Club",
@@ -1084,6 +1130,7 @@ const albums = [
 
     year: 2012,
     country: "USA",
+    colors:["white","black","grey"],
 
     genres: [
       "Drone",
@@ -1091,7 +1138,7 @@ const albums = [
       
     ],
      rating: 3,
-     link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
+     link: "https://music.youtube.com/watch?v=gI2SBIGMFPY",
 
     },
     {
@@ -1103,6 +1150,7 @@ const albums = [
 
     year: 2012,
     country: "Canada",
+    colors:["purple","blue"],
 
     genres: [
       "Vaportrap",
@@ -1122,6 +1170,7 @@ const albums = [
 
     year: 2013,
     country: "Canada",
+    colors:["black","multicolor"],
 
     genres: [
       "Vaportrap",
@@ -1141,6 +1190,7 @@ const albums = [
 
     year: 2016,
     country: "Canada",
+    colors:["pink","purple"],
 
     genres: [
       "Vaportrap",
@@ -1160,6 +1210,7 @@ const albums = [
 
     year: 2020,
     country: "Canada",
+    colors:["green"],
 
     genres: [
       "Vaportrap",
@@ -1179,6 +1230,7 @@ const albums = [
 
     year: 1997,
     country: "Canada",
+    colors:["blue","beige"],
 
     genres: [
       "Post-Rock",
@@ -1198,6 +1250,7 @@ const albums = [
 
     year: 2013,
     country: "France",
+    colors:["beige","black"],
 
     genres: [
       "Death Metal",
@@ -1214,6 +1267,7 @@ const albums = [
 
     year: 2003,
     country: "USA",
+    colors:["white"],
 
     genres: [
       "Avant-Folk",
@@ -1231,6 +1285,7 @@ const albums = [
 
     year: 1995,
     country: "England",
+    colors:["brown"],
 
     genres: [
       "New Age",
@@ -1247,6 +1302,7 @@ const albums = [
 
     year: 2015,
     country: "USA",
+    colors:["black"],
 
     genres: [
       "Video Game Music",
@@ -1264,6 +1320,8 @@ const albums = [
 
     year: 2016,
     country: "USA",
+    colors:["yellow","brown"],
+
 
     genres: [
       "IDM",
@@ -1281,6 +1339,7 @@ const albums = [
 
     year: 2009,
     country: "USA",
+    colors:["multicolor"],
 
     genres: [
       "Glitch",
@@ -1298,7 +1357,7 @@ const albums = [
 
     year: 2013,
     country: "France",
-
+    colors:["beige","brown"],
     genres: [
       "Dark Synthwave",
       "Electro house",
@@ -1315,6 +1374,7 @@ const albums = [
 
     year: 2022,
     country: "Israel",
+    colors:["purple"],
 
     genres: [
       "Psytrance",
@@ -1332,14 +1392,109 @@ const albums = [
 
     year: 2007,
     country: "Israel",
+    colors:["green"],
 
     genres: [
       "Full-on Psytrance",
       "Trance Metal",
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kzcQwd5hlKRJoNjnbXDdIjKug7MEW3V2M",
     },
+    {
+    id: 71,
+
+    title: "Army of Mushrooms",
+
+    artist: "Infected Mushroom",
+
+    year: 2012,
+    country: "Israel",
+    colors:["beige"],
+
+    genres: [
+      "Brostep",
+      "Psytrance",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_k4C8GdaZLdO7rYhuL5pixtHbEf0S6IgoY",
+    },
+    {
+    id: 72,
+
+    title: "Discovery",
+
+    artist: "Daft Punk",
+
+    year: 2001,
+    country: "France",
+    colors:["black"],
+
+    genres: [
+      "French House",
+      "Electro-Disco",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mz6eafmqdRHSaR4IwG0ll6J6rgv0_ZpGw",
+    },{
+    id: 73,
+    title: "Rendez-Vous",
+    artist: "Jean-Michel Jarre",
+    year: 1986,
+    country: "France",
+    colors:["red"],
+    genres: [
+      "Progressive Electronic",
+      "Space Ambient",
+      "New age",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lMO2FrkpKiezaEX2QCZI4GXZ9bL4DT5-s",
+    },{
+    id: 74,
+    title: "La Magia de Sandro",
+    artist: "Sandro",
+    year: 1968,
+    country: "Argentina",
+    colors:["yellow"],
+
+    genres: [
+      "Canción melódica",
+      "Bolero-beat",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_me_4RJYLO2ZUr8zQZ-8CwKrBbngq9x-f4",
+    },{
+    id: 75,
+    title: "No Es Solo Rock And Roll",
+    artist: "Intoxicados",
+    year: 2003,
+    country: "Argentina",
+    colors:["blue"],
+
+    genres: [
+      "Roots Rock",
+      "Blues rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nPMT6ArXZDT-VLXO2GrDNJ-j-l9iYzvQY",
+    },
+    {
+    id: 76,
+    title: "Zoolook",
+    artist: "Jean-michel jarre",
+    year: 1984,
+    country: "France",
+    colors:["yellow"],
+
+    genres: [
+      "Progressive Electronic",
+      "sound collage",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mh6pr4ge6tupxKqrOIhIq53jcgdNn-MOc",
+    },
+
 
 
 
