@@ -179,7 +179,7 @@ const albums = [
     year: 2012,
 
     country: "France",
-    colors:["pink","purple"],
+    colors:["pink" ],
 
     genres: [
       "Breakcore",
@@ -744,7 +744,7 @@ const albums = [
     year: 2004,
 
     country: "Singapore",
-    colors:["beige","red"],
+    colors:["beige" ],
 
     genres: [
       "Downtempo",
@@ -868,7 +868,7 @@ const albums = [
     year: 2013,
 
     country: "Canada",
-    colors:["cyan","blue"],
+    colors:["cyan" ],
 
     genres: [
       "Digital Fusion",
@@ -1117,7 +1117,7 @@ const albums = [
       "UK Bass",
       
     ],
-     rating: 3,
+     rating: 4,
      link: "https:https://music.youtube.com/playlist?list=OLAK5uy_k2yP_w5Mxj6qpQI963XJUc_lV3f5HR330",
 
     },
@@ -1130,14 +1130,14 @@ const albums = [
 
     year: 2012,
     country: "USA",
-    colors:["white","black","grey"],
+    colors:[ "black","grey"],
 
     genres: [
       "Drone",
       "Binaural Beats",
       
     ],
-     rating: 3,
+     rating: 4,
      link: "https://music.youtube.com/watch?v=gI2SBIGMFPY",
 
     },
@@ -1170,7 +1170,7 @@ const albums = [
 
     year: 2013,
     country: "Canada",
-    colors:["black","multicolor"],
+    colors:["grey","multicolor"],
 
     genres: [
       "Vaportrap",
@@ -1478,8 +1478,7 @@ const albums = [
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_nPMT6ArXZDT-VLXO2GrDNJ-j-l9iYzvQY",
-    },
-    {
+    },{
     id: 76,
     title: "Zoolook",
     artist: "Jean-michel jarre",
@@ -1493,10 +1492,421 @@ const albums = [
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mh6pr4ge6tupxKqrOIhIq53jcgdNn-MOc",
+    },{
+    id: 77,
+    title: "Piss in the wind",
+    artist: "Joji",
+    year: 2026,
+    country: "Japan",
+    colors:["red"],
+
+    genres: [
+      "alternative R&B",
+      "alt-pop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/watch?v=Es1ji0O6w-8&list=OLAK5uy_kQ32mGN9J6nw3J2gl6xMflWmXiclIoZTc",
+    },{
+    id: 78,
+    title: "Big Game Hunter",
+    artist: "Moist Ghost",
+    year: 2012,
+    country: "USA",
+    colors:["red","black"],
+
+    genres: [
+      "wonky",
+      "aquacrunk",
+      "vaportrap",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/channel/UCvBAEvgAo3EVpUenvnrWVlg",
+    },{
+    id: 79,
+    title: "░▒▓死▓▒░",
+    artist: "Chinese Hackers",
+    year: 2015,
+    country: "USA",
+    colors:["purple"],
+
+    genres: [
+      "dark ambient",
+      "vapornoise",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/channel/UCvBAEvgAo3EVpUenvnrWVlg",
     },
+    {
+    id: 80,
+    title: "The Jester",
+    artist: "George Garside",
+    year: 1985,
+    country: "england",
+    colors:["white"],
 
+    genres: [
+      "proggressive electronic",
+      "ambient",
+      "new age",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/watch?v=ktTfV6VEATk",
+    },{
+    id: 81,
+    title: "Yura Yura Teikoku",
+    artist: "Yura Yura Teikoku",
+    year: 1992,
+    country: "Japan",
+    colors:["black"],
 
+    genres: [
+      "psychedelic rock",
+      "art rock",
+      "post-punk",
+    ],
+     rating: 4,
+     link: "https://www.youtube.com/watch?v=BwUAHuhX-Ls&list=RDBwUAHuhX-Ls&start_radio=1",
+    },{
+    id: 82,
+    title: "Kokō no gadan",
+    artist: "Kyojaku.",
+    year: 2012,
+    country: "Japan",
+    colors:["white"],
 
+    genres: [
+      "math rock",
+      "post-rock",
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=TaFKC7TFw7A&list=RDTaFKC7TFw7A&start_radio=1",
+    },{
+    id: 83,
+    title: "PRIVATE",
+    artist: "speedometer.",
+    year: 2000,
+    country: "Japan",
+    colors:["green"],
+
+    genres: [
+      "downtempo",
+      "instrumental hip hop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nla3W6AIj5-SOLV3lScynWhPdDrZq_Gks",
+    },{
+    id: 84,
+    title: "El disco de tu corazon",
+    artist: "Miranda!",
+    year: 2007,
+    country: "Argentina",
+    colors:["red"],
+
+    genres: [
+      "electropop",
+      "dance-pop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mE2ot2XD2_Qm-B8nhNC6GUr0lx-KXxcjg",
+    },{
+    id: 85,
+    title: "Sin Restricciones",
+    artist: "Miranda!",
+    year: 2004,
+    country: "Argentina",
+    colors:["white"],
+
+    genres: [
+      "electropop",
+      "dance-pop",
+      "synthpop",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kZbZx24IMkJthyjgXzDVQ7R4NkQ_PSKQo",
+    },{
+    id: 86,
+    title: "Hotel Miranda!",
+    artist: "Miranda!",
+    year: 2023,
+    country: "Argentina",
+    colors:["Brown"],
+
+    genres: [
+      "electropop",
+      "dance-pop",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_k2KHGsInznQH8Kz4z3eRvgumYumIB4sIM",
+    },{
+    id: 87,
+    title: "Porfiado",
+    artist: "Cuarteto de Nos",
+    year: 2012,
+    country: "Uruguay",
+    colors:["Cyan"],
+
+    genres: [
+      "power pop",
+      "pop rock",
+      "alternative rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mUE6ZcI3zo5E8vvbpLhBQIp4NWK-GGjcY",
+    },{
+    id: 88,
+    title: "Jueves",
+    artist: "Cuarteto de Nos",
+    year: 2019,
+    country: "Uruguay",
+    colors:["purple"],
+
+    genres: [
+      "power pop",
+      "pop rock",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ms235_b1K3CCqXWrmNB5H7mDiuJxnMNBk",
+    },{
+    id: 89,
+    title: "Raro",
+    artist: "Cuarteto de Nos",
+    year: 2006,
+    country: "Uruguay",
+    colors:["cyan"],
+
+    genres: [
+      "power pop",
+      "pop rock",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ngUhsc50ZVHYbzN7JLCuFQSdIhe7Bzw0s",
+    },{
+    id: 90,
+    title: "Bipolar",
+    artist: "Cuarteto de Nos",
+    year: 2009,
+    country: "Uruguay",
+    colors:["multicolor"],
+
+    genres: [
+      "power pop",
+      "rap rock",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ngUhsc50ZVHYbzN7JLCuFQSdIhe7Bzw0s",
+    },{
+    id: 91,
+    title: "PERDIENDO RASGOS ADOLESCENTES",
+    artist: "Swaggerboyz",
+    year: 2026,
+    country: "argentina",
+    colors:["multicolor"],
+
+    genres: [
+      "experimental hip hop",
+      "plugg",
+    ],
+     rating: 1,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kidNj6FwBnfzkXJSTw8AvsRAXbCcRElNY",
+    },{
+    id: 92,
+    title: "Toilet",
+    artist: "Clown Core",
+    year: 2018,
+    country: "USA",
+    colors:["black" ],
+
+    genres: [
+      "experimental rock",
+      "avant-garde jazz",
+      "jazz-rock",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mx-OfxuWtDb_bCBjahe1Sjs0zzU-Pxjjc",
+    },{
+    id: 93,
+    title: "A Night At The Opera",
+    artist: "queen",
+    year: 1975,
+    country: "england",
+    colors:["white" ],
+
+    genres: [
+      "hard rock",
+      "art rock",
+      "glam rock",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mQGa-V4qspfisNHu1kXthY1w93yJNT0rw",
+    },{
+    id: 94,
+    title: "Queen I",
+    artist: "queen",
+    year: 1973,
+    country: "england",
+    colors:["purple" ,"pink"],
+
+    genres: [
+      "hard rock",
+      "progressive rock",
+      "glam rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kTS2aeE7xX6v6wVVmvIZbNgBvXag0XLEE",
+    },{
+    id: 95,
+    title: "Blood on ice",
+    artist: "bathory",
+    year: 1996,
+    country: "sweden",
+    colors:["blue"],
+
+    genres: [
+      "viking metal",
+      "heavy metal",
+      "nordic folk METAL",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ltEwYGiQusZkKajBKNJ5WACfJ7IT4Fr08",
+    },{
+    id: 96,
+    title: "Limp pumpo",
+    artist: "Jesus Belluci",
+    year: 2018,
+    country: "USA",
+    colors:["green"],
+
+    genres: [
+      "ghettotech",
+      "electronic dance music",
+      "jungle",
+    ],
+     rating: 4,
+     link: "https://www.youtube.com/watch?v=Vg4dRiQXxeo&list=RDVg4dRiQXxeo&start_radio=1",
+    },{
+    id: 97,
+    title: "Jazz",
+    artist: "Queen",
+    year: 1978,
+    country: "England",
+    colors:["black"],
+
+    genres: [
+      "hard rock",
+      "pop rock",
+      "piano rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mCDOdcHY6mzvx9UpBrntSeI1-Rz6ms_4M",
+    },{
+    id: 98,
+    title: "Un Verano Sin Ti",
+    artist: "Bad Bunny",
+    year: 2022,
+    country: "Puerto Rico",
+    colors:["multicolor"],
+
+    genres: [
+      "reggaeton",
+      "latin pop",
+      "pop urbano",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lPKZ-lFNR8-6kDNPm3zxJc6ipsS7ibrc0",
+    },{
+    id: 99,
+    title: "DeBÍ TiRAR MáS FOToS",
+    artist: "Bad Bunny",
+    year: 2025,
+    country: "Puerto Rico",
+    colors:["green"],
+
+    genres: [
+      "reggaeton",
+      "carribean music",
+      "salsa",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lyHAnjFoQ3oA99xB_bjZRFiSu43NthCfY",
+    },{
+    id: 100,
+    title: "jessico",
+    artist: "Babasónicos",
+    year: 2001,
+    country: "argentina",
+    colors:["yellow"],
+
+    genres: [
+      "alternative rock",
+      "psychedelic rock",
+      "neo-psychedelia",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lmu3nFAHUQv0YM6DLac_-bdVsfE0OWqlU",
+    },{
+    id: 101,
+    title: "The Fundamental Slimes and Humours",
+    artist: "nekrogoblikon",
+    year: 2022,
+    country: "usa",
+    colors:["beige"],
+
+    genres: [
+      "alternative metal",
+      "melodic death metal",
+      "symphonic metal",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mbqpWs0OSTH25aLyD5BWLwZJ9p6NVmILo",
+    },{
+    id: 102,
+    title: "Welcome to Bonkers",
+    artist: "nekrogoblikon",
+    year: 2018,
+    country: "usa",
+    colors:["orange"],
+
+    genres: [
+      "alternative metal",
+      "melodic death metal",
+      "avant-garde metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_l-fFIHC5TeVFdW7c4JLVfZ_57SfLIY7JQ",
+    },{
+    id: 103,
+    title: "Misa criolla",
+    artist: "mercedes sosa",
+    year: 1999,
+    country: "argentina",
+    colors:["pink"],
+
+    genres: [
+      "latin american classical music",
+      "mass",
+      "zamba",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ma1j2HI1e1xdLRpIo3X8GUapD2Fx8C27o",
+    },{
+    id: 104,
+    title: "Tū",
+    artist: "Alien Weaponry",
+    year: 2018,
+    country: "new zealand",
+    colors:["black"],
+
+    genres: [
+      "Groove metal",
+      "alternative metal",
+      "maori music",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lEHkyvl3wFPSNJAaAcS2zwx3KXTY-BHmE",
+    },
+    
+    
+    
 
 ];
 
