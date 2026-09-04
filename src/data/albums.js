@@ -13,7 +13,7 @@ const albums = [
       "Symphonic Metal"
     ],
 
-    rating: 5,
+    rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mHHiAV4mENhu91wcRGZD6HfLOawCBiRmM"
   },
@@ -123,7 +123,7 @@ const albums = [
       "Breakcore",
       "Baroquecore",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muSTbvn7J0gi4-nkt5Z3etol5GtHMcRfw",
     }, {
@@ -142,7 +142,7 @@ const albums = [
       "Breakcore",
       "Baroquecore",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kQKbPr_sgcdBRZGrpzysDS68TszhWAZV4",
     },
@@ -163,7 +163,7 @@ const albums = [
       "Breakcore",
       "Baroquecore",
     ],
-     rating: 5,
+     rating: 6,
 
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_muOJxRmVB5mSrCNYEHU_g2vr6t6FprlmM",
@@ -249,7 +249,7 @@ const albums = [
       "Black Metal",
       "Dark Ambient",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nuHUBdFPFE0WMYv5OjyNPWMyXNwILrK3s",
     },
@@ -329,7 +329,7 @@ const albums = [
     genres: [
       "Alternative Metal",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_n1sOLxWCfeedpeiN-YS7H5xJq5Qptac-M",
     },
@@ -369,7 +369,7 @@ const albums = [
     genres: [
       "Alternative Metal",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mOrlwsA-kRRg1u2xlGlH_H94gom5ZWfzY",
     },
@@ -388,7 +388,7 @@ const albums = [
     genres: [
       "Alternative Metal",
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kkxCMTEcO5xpKApQRrBzUkhjmM0D1P-m4",
     },
@@ -430,7 +430,7 @@ const albums = [
       "Mallsoft",
       "Vaporwave",
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_koJptgkHvDsyiPRDzZ-CGXAz3_Din7bw0",
     },
@@ -450,7 +450,7 @@ const albums = [
     genres: [
       "Vaporwave",
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mbbX3kBrywV320XSeQ1aYWELcN2q2szFs",
     },
@@ -471,7 +471,7 @@ const albums = [
       "Ambient",
       "Drone",
     ],
-     rating: 4,
+     rating: 5,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_klb6iSM_8kNkAlfDcxwrCe-i6wowImL-Y",
     },
 
@@ -491,7 +491,7 @@ const albums = [
       "Alt-Pop",
       "Indietronica",
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mnoSY2fnpPyXApGWCrZ66LaLcOQnIjfHE",
     },
@@ -511,7 +511,7 @@ const albums = [
     genres: [
       "Pop Rock",
     ],
-     rating: 4,
+     rating: 5,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_khywBxQXJQJK-oXzCuJwkxmbuOF7ymuj4",
     },
     {
@@ -550,7 +550,7 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 4,
+     rating: 5,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_lzx0pDfVntY0u82DwArusrQtv6GbbOkFU",
     },
     {
@@ -568,7 +568,7 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 4,
+     rating: 5,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mKBLGVYH8F59HG3qxEqtuMOwyhr2QTGo4",
     },
@@ -589,7 +589,7 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 4,
+     rating: 5,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nanAsLd8bl9PNfMNXeijLKPxF1kwrCHXA",
     },
     {
@@ -608,7 +608,7 @@ const albums = [
       "ElectroSwing",
       
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kwcJMBHPNhlo04PJNmA53G33qhNdA4KWI",
     },
@@ -629,7 +629,7 @@ const albums = [
       "Downtempo",
       
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kZcYu06w894YG4jGGDWoY8TwlWgOY9DJ4",
     },
@@ -650,7 +650,7 @@ const albums = [
       "Downtempo",
       
     ],
-     rating: 4,
+     rating: 5,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_mDrbRoh7CkLB18_fc_JtKvw215YDHr9PA",
     },
     {
@@ -710,7 +710,7 @@ const albums = [
       "Gregorian",
       
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nhw9t51QKFp_bSzcuhTIeDqQdZaWhd0Yo",
     },
@@ -791,7 +791,7 @@ const albums = [
       "Alt-Pop",
       
     ],
-     rating: 5,
+     rating: 6,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nkJkAN5SvU3BBlVEdL8bCxVp4qRWzJL_A",
     },
     {
@@ -855,7 +855,7 @@ const albums = [
       "Doom Metal",
       
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kFyo3F18c8bhxjjxULtWJDj2ezq75S9go"
     },
     {
@@ -895,7 +895,7 @@ const albums = [
       "Glith Pop",
       
     ],
-     rating: 3,
+     rating: 2,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_npPqkodSAr1sOLZbfAgZ_Vn4D3Jjb4AN8",
 
 
@@ -998,7 +998,7 @@ const albums = [
       "Bitpop",
       
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lY5wtYA5Oz0-qCDxzmUBAcJHpxHncSzuM",
 
     },
@@ -1017,7 +1017,7 @@ const albums = [
       "Electropop",
       
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kyVTh4_Lo9nuO0yjSTnYH-rcwt5kYaXDc",
 
     },
@@ -1037,7 +1037,7 @@ const albums = [
       "Synthpop",
       
     ],
-     rating: 3,
+     rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_nyrRdzEHYAJ3W_MpYQbu4HOjtNvWCrGLQ",
 
     },
@@ -1089,7 +1089,7 @@ const albums = [
     artist: "Monster Magnet",
 
     year: 1991,
-    country: "Belarus",
+    country: "usa",
     colors:["teal","green"],
 
     genres: [
@@ -1137,7 +1137,7 @@ const albums = [
       "Binaural Beats",
       
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/watch?v=gI2SBIGMFPY",
 
     },
@@ -1157,7 +1157,7 @@ const albums = [
       "Wonky",
       
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=PLugC693tjcR3lWEbXJXfFxNFw8UzPlGUA",
 
     },
@@ -1290,7 +1290,7 @@ const albums = [
     genres: [
       "New Age",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lOKNwdgYxty5nICN2RMeELzqCYFHVhaUU",
     },
     {
@@ -1308,7 +1308,7 @@ const albums = [
       "Video Game Music",
       "Digital Fusion",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx",
     },
     {
@@ -1345,7 +1345,7 @@ const albums = [
       "Glitch",
       "Breakcore",
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_nLMB9OmKykGeoxGbzpVNN5NaUDOZK1OSw",
     },
     {
@@ -1362,7 +1362,7 @@ const albums = [
       "Dark Synthwave",
       "Electro house",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_nvKBouzId4XwxkWzvQPMKnTDfCkiBCIhc",
     },
     {
@@ -1434,7 +1434,7 @@ const albums = [
       "French House",
       "Electro-Disco",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mz6eafmqdRHSaR4IwG0ll6J6rgv0_ZpGw",
     },{
     id: 73,
@@ -1448,7 +1448,7 @@ const albums = [
       "Space Ambient",
       "New age",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lMO2FrkpKiezaEX2QCZI4GXZ9bL4DT5-s",
     },{
     id: 74,
@@ -1736,7 +1736,7 @@ const albums = [
       "art rock",
       "glam rock",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mQGa-V4qspfisNHu1kXthY1w93yJNT0rw",
     },{
     id: 94,
@@ -1781,7 +1781,7 @@ const albums = [
       "electronic dance music",
       "jungle",
     ],
-     rating: 4,
+     rating: 3,
      link: "https://www.youtube.com/watch?v=Vg4dRiQXxeo&list=RDVg4dRiQXxeo&start_radio=1",
     },{
     id: 97,
@@ -1811,7 +1811,7 @@ const albums = [
       "latin pop",
       "pop urbano",
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lPKZ-lFNR8-6kDNPm3zxJc6ipsS7ibrc0",
     },{
     id: 99,
@@ -1856,7 +1856,7 @@ const albums = [
       "melodic death metal",
       "symphonic metal",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mbqpWs0OSTH25aLyD5BWLwZJ9p6NVmILo",
     },{
     id: 102,
@@ -1905,8 +1905,8 @@ const albums = [
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lEHkyvl3wFPSNJAaAcS2zwx3KXTY-BHmE",
     },{
     id: 105,
-    title: "Tū",
-    artist: "The Tired Sounds Of",
+    title: "The Tired Sounds of Stars of the Lid",
+    artist: "Stars of the Lid",
     year: 2001,
     country: "usa",
     colors:["yellow"],
@@ -2020,7 +2020,7 @@ const albums = [
       "Conjunto andino",
       "bolivian Huayño","Indigenous Andean Music",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_k0OblSkxV1uWOv51QRFSAN1__88YapoPI",
     },{
     id: 114,
@@ -2033,7 +2033,7 @@ const albums = [
       "jazz fusion",
       "post bop","caribbean music",
     ],
-     rating: 3,
+     rating: 2,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_n3uDNrJECDVNBS0hdnYFS9hY9qG-wRmLM",
     },{
     id: 115,
@@ -2046,20 +2046,20 @@ const albums = [
       "jazz fusion",
       "Jazz funk","city pop",
     ],
-     rating: 3,
+     rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_m5hPVziY99Z_2SvJpdBahdSQfy236-wfk",
     },{
     id: 116,
     title: "The Dark Side of the Moon",
     artist: "Pink Floyd",
     year: 1973,
-    country: "Japan",
+    country: "england",
     colors:["black"],
     genres: [
       "art rock",
       "progressive rock","psychodelic rock",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_m5hPVziY99Z_2SvJpdBahdSQfy236-wfk",
     },{
     id: 117,
@@ -2072,7 +2072,7 @@ const albums = [
       "Technical Death Metal",
       "Neoclassical Metal",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_n4_tz34M55jx6K6ZqfWZHVbMECOsofUyc",
     },{
     id: 118,
@@ -2086,7 +2086,7 @@ const albums = [
       "Art Rock",
       "Space Rock","Psychedelic Rock",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_ktpaovTzgSPAARFm2-k0tpvs4jhQHIdwU",
     },{
     id: 119,
@@ -2100,7 +2100,7 @@ const albums = [
       "Folk Rock",
       "Psychedelic Rock",
     ],
-     rating: 3,
+     rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lo1rg5ZVqTZ3IP9j2PXQlyj5es9lXqKww",
     },{
     id: 120,
@@ -2114,7 +2114,7 @@ const albums = [
       "Synth Punk",
       "Electroclash",
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_ll-QdB0F9JNZA5eu6D5bP2iGPpzFDU9cs",
     },{
     id: 121,
@@ -2157,7 +2157,7 @@ const albums = [
       "Latin Electronic",
       "Reggaeton",
     ],
-     rating: 3,
+     rating: 2,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_l6YPXcw0ylhFCxyAxspgxSZTWMg5Dso48",
     },{
     id: 124,
@@ -2165,7 +2165,7 @@ const albums = [
     artist: "Wintersun",
     year: 2004,
     country: "spain",
-    colors:["white"],
+    colors:["blue"],
     genres: [
       "Melodic Death Metal",
       "Power metal",
@@ -2186,7 +2186,7 @@ const albums = [
       "Deathcore",
       "Symphonic Metal",
     ],
-     rating: 4,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kEpOiHDcsBi5_2ZEhVrUdP4CFQx8UdPl4",
     },{
     id: 127,
@@ -2252,7 +2252,7 @@ const albums = [
       "Jazz Mugham",
       "Jazz Fusion","Post-Bop",
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mUH5OXiHHJ_apPGj34XuXRNIqc3sqeovU",
     },{
     id: 132,
@@ -2265,7 +2265,7 @@ const albums = [
       "Ambient",
       "experimental", 
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_kDU9_3Q3YizuBnrBpJgWD-LA179ZuC7oU",
     },{
     id: 133,
@@ -2278,7 +2278,7 @@ const albums = [
       "Indie Folk",
       "Chamber Pop", "Chamber Folk", "Post-Rock", 
     ],
-     rating: 4,
+     rating: 3,
      link: "https://music.youtube.com/watch?v=8LeaT2SMM88",
     },{
     id: 134,
@@ -2286,13 +2286,256 @@ const albums = [
     artist: "Robert Haig Coxon",
     year: 1995,
     country: "Canada",
-    colors:["beige","yellow"],
+    colors:["yellow"],
     genres: [
       "new age",
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_l87jZ0e424mzfO7hD2_4ajIOyFGuJysRk",
+    },{
+    id: 135,
+    title: "Murmuüre",
+    artist: "Murmuüre",
+    year: 2010,
+    country: "France",
+    colors:["orange"],
+    genres: [
+      "Atmospheric Black Metal","Ambient","Avant-Garde Metal",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_l87jZ0e424mzfO7hD2_4ajIOyFGuJysRk",
+    },{
+    id: 136,
+    title: "The Money Store",
+    artist: "Death Grips",
+    year: 2012,
+    country: "usa",
+    colors:["black","white"],
+    genres: [
+      "Industrial Hip Hop","Hardcore Hip Hop","Experimental Hip Hop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lvmV9P8LsaV83ALc6PrdRleHAtSwKzkHQ",
+    },{
+    id: 137,
+    title: "Exuma, The Obeah Man",
+    artist: "Exuma",
+    year: 1970,
+    country: "bahamas",
+    colors:["brown"],
+    genres: [
+      "Psychedelic Folk","Caribbean Folk Music","Wyrd Folk",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_la7y-e-3dCqw3igFWgM7M0gltlufFoBLc",
+    },{
+    id: 138,
+    title: "Osiris",
+    artist: "Osiris",
+    year: 1982,
+    country: "Bahrain",
+    colors:["yellow"],
+    genres: [
+      "Neo-Prog","Progressive Rock","Hard Rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lPoyRWX2mXIObx3Go21AZPi5NLhAcUdWw",
+    },{
+    id: 139,
+    title: "The Miracle",
+    artist: "Queen",
+    year: 1989,
+    country: "England",
+    colors:["cyan"],
+    genres: [
+      "pop-rock","synthpop","Hard Rock","aor",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_l5mY4snvXivz2Ebj3mtJiwohuDgOzwn0g",
+    },{
+    id: 140,
+    title: "Bi-2",
+    artist: "Bi-2",
+    year: 2000,
+    country: "Belarus",
+    colors:["Blue"],
+    genres: [
+      "	Pop Rock", "Alternative Rock","new wave","Post-Punk",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nrHRTJAnI4gfagWI12T7WUbUW2ek-2ox4",
+    },{
+    id: 141,
+    title: "Sarod Ragas",
+    artist: "Shyamal Sinha",
+    year: 1968,
+    country: "Bangladesh",
+    colors:["orange"],
+    genres: [
+      "Hindustani Classical Music",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lvmV9P8LsaV83ALc6PrdRleHAtSwKzkHQ",
+    },{
+    id: 142,
+    title: "ANTI",
+    artist: "Rihanna",
+    year: 2016,
+    country: "Barbados",
+    colors:["White"],
+    genres: [
+      "Alternative R&B","Contemporary R&B","Pop Soul",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kHZCCqto0oTKIkft6L7BrYKdcpc95zmH8",
+    },{
+    id: 143,
+    title: "Innuendo",
+    artist: "Queen",
+    year: 1991,
+    country: "england",
+    colors:["White"],
+    genres: [
+      "Hard rock","art rock","Proggressive Rock","Pop Rock",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lG7i_RfY_0do5-wHOLIXZQ3ReEcwJrWG0",
+    },{
+    id: 144,
+    title: "Clics Modernos",
+    artist: "Charly García",
+    year: 1983,
+    country: "argentina",
+    colors:["grey","white"],
+    genres: [
+      "new wave","art pop","Synthpop",
+    ],
+     rating: 6,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lykK9GSjkJBFHK-_KU-brjzofAMY0DqiE",
+    },{
+    id: 145,
+    title: "Cosmos",
+    artist: "Saturno",
+    year: 2024,
+    country: "argentina",
+    colors:["black"],
+    genres: [
+      "alternative rock","Indie rock",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=UVcx73TJMxQ&list=OLAK5uy_k675nK2IH5YqWDdCfIK4I4nOR0pGjOrcY",
+    },{
+    id: 146,
+    title: "Multitude",
+    artist: "Stromae",
+    year: 2022,
+    country: "belgium",
+    colors:["white"],
+    genres: [
+      "french pop","art pop","Digital cumbia","afrobeats",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=UVcx73TJMxQ&list=OLAK5uy_k675nK2IH5YqWDdCfIK4I4nOR0pGjOrcY",
+    },{
+    id: 147,
+    title: "Zeit",
+    artist: "Rammstein",
+    year: 2022,
+    country: "germany",
+    colors:["grey"],
+    genres: [
+      "Neue Deutsche Härte","Gothic Metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nl5CYbyn0jhWQiRJ17yvqRDN96eTx7sWQ",
+    },{
+    id: 148,
+    title: "Just Raw Tracks, Vol. 4",
+    artist: "Aloboi",
+    year: 2024,
+    country: "germany",
+    colors:["black"],
+    genres: [
+      "electro house","ambient electronics",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nlMse8kTRnRi7Ms-3AHM1_vfyKf74kQXc",
+    },{
+    id: 149,
+    title: "The Wall",
+    artist: "Pink Floyd",
+    year: 1979,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "progressive rock","art rock","concept album","rock opera"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n-lE02j8pQkwGhsL5JLAPvbBAoAmxh9n8",
+    },{
+    id: 150,
+    title: "Wish You Were Here",
+    artist: "Pink Floyd",
+    year: 1975,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "progressive rock","art rock","psychedelic rock","space rock"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_klU9jB4SMO5SqEyFazPAVbDek2j0JVQxY",
+    },{
+    id: 151,
+    title: "Soundtracks for the Blind",
+    artist: "Swans",
+    year: 1996,
+    country: "USA",
+    colors:["yellow"],
+    genres: [
+      "experimental rock","post-rock","industrial rock","experimental drone","dark ambient"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lkIk6bjrRI-mjtxnTpF74z89EYqu5DmXk",
+    },{
+    id: 152,
+    title: "BORN THIS WAY",
+    artist: "Lady Gaga",
+    year: 2011,
+    country: "USA",
+    colors:["black"],
+    genres: [
+      "pop","dance-pop","electropop","synth-pop"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lkIk6bjrRI-mjtxnTpF74z89EYqu5DmXk",
+    },{
+    id: 153,
+    title: "Transilvanian Hunger",
+    artist: "Darkthrone",
+    year: 1994,
+    country: "Norway",
+    colors:["black"],
+    genres: [
+      "black metal","raw black metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mDwftNu8GYOz1r13UaptN6QpQBTzoxImU",
+    },{
+    id: 154,
+    title: "Symbolic",
+    artist: "Death",
+    year: 1995,
+    country: "USA",
+    colors:["purple"],
+    genres: [
+      "death metal","technical death metal","progressive death metal","melodic death metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_m4HnYQsXTGTfTl8L7LVKbIr-bF4EZvnzY",
     },
+     
+     
+    
     
     
   
