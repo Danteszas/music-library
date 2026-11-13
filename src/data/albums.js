@@ -249,7 +249,7 @@ const albums = [
       "Black Metal",
       "Dark Ambient",
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nuHUBdFPFE0WMYv5OjyNPWMyXNwILrK3s",
     },
@@ -289,7 +289,7 @@ const albums = [
       "Industrial Metal",
       "Neue Deutsche Härte",
     ],
-     rating: 5,
+     rating: 6,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE",
     },
@@ -308,7 +308,7 @@ const albums = [
     genres: [
       "Alternative Metal",
     ],
-     rating: 3,
+     rating: 4,
      colors:["black"],
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_msHcqLxIGsqY6jJzI2rDdf_PmgyIVBC2c",
@@ -344,12 +344,12 @@ const albums = [
     year: 2002,
 
     country: "USA",
-    colors:["black","white"],
+    colors:[  "white"],
 
     genres: [
       "Alternative Metal",
     ],
-     rating: 3,
+     rating: 4,
 
     link: "https://music.youtube.com/playlist?list=OLAK5uy_kl1YbaJ6oBfy2Jb_LXzH4AG04r_62KYMs",
     },
@@ -544,7 +544,7 @@ const albums = [
     year: 2012,
 
     country: "France",
-    colors:["grey","white"],
+    colors:["grey" ],
 
     genres: [
       "ElectroSwing",
@@ -776,20 +776,13 @@ const albums = [
     },
     {
     id: 39,
-
     title: "Nectar",
-
     artist: "Joji",
-
     year: 2020,
-
     country: "Japan",
     colors:["red"],
-
     genres: [
-      "Alternative R&B",
-      "Alt-Pop",
-      
+      "Alternative R&B", "Alt-Pop", "Pop Rap", "Trap", "Electropop", "Trap Soul"
     ],
      rating: 6,
     link: "https://music.youtube.com/playlist?list=OLAK5uy_nkJkAN5SvU3BBlVEdL8bCxVp4qRWzJL_A",
@@ -1063,39 +1056,28 @@ const albums = [
     },
     {
     id: 53,
-
     title: "Etazi",
-
     artist: "Molchat Doma",
-
     year: 2018,
     country: "Belarus",
     colors:["beige","blue"],
-
     genres: [
       "Coldwave",
       "Post-Punk",
-      
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_lVCcRrsXzRr28XGFkdDkUt3svunv-M2gA",
-
     },
     {
     id: 54,
-
     title: "Tab",
-
     artist: "Monster Magnet",
-
     year: 1991,
     country: "usa",
     colors:["teal","green"],
-
     genres: [
       "Space Rock",
       "Stoner Rock",
-      
     ],
      rating: 3,
      link: "https://music.youtube.com/search?q=tab+monsteer+magnet",
@@ -1487,8 +1469,7 @@ const albums = [
     colors:["yellow"],
 
     genres: [
-      "Progressive Electronic",
-      "sound collage",
+      "Progressive Electronic","Sound Collage", "Synthpop", "Synth Funk", "Ambient", "Worldbeat",
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_mh6pr4ge6tupxKqrOIhIq53jcgdNn-MOc",
@@ -1501,8 +1482,7 @@ const albums = [
     colors:["red"],
 
     genres: [
-      "alternative R&B",
-      "alt-pop",
+      "Alternative R&B", "Alt-Pop", "Lo-Fi Hip Hop", "Trap Soul", "Wave"
     ],
      rating: 3,
      link: "https://music.youtube.com/watch?v=Es1ji0O6w-8&list=OLAK5uy_kQ32mGN9J6nw3J2gl6xMflWmXiclIoZTc",
@@ -1568,11 +1548,11 @@ const albums = [
      link: "https://www.youtube.com/watch?v=BwUAHuhX-Ls&list=RDBwUAHuhX-Ls&start_radio=1",
     },{
     id: 82,
-    title: "Kokō no gadan",
+    title: "Koko no gadan",
     artist: "Kyojaku.",
     year: 2012,
     country: "Japan",
-    colors:["white"],
+    colors:["beige"],
 
     genres: [
       "math rock",
@@ -1658,7 +1638,7 @@ const albums = [
     artist: "Cuarteto de Nos",
     year: 2019,
     country: "Uruguay",
-    colors:["purple"],
+    colors:["grey"],
 
     genres: [
       "power pop",
@@ -2059,7 +2039,7 @@ const albums = [
       "art rock",
       "progressive rock","psychodelic rock",
     ],
-     rating: 6,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_m5hPVziY99Z_2SvJpdBahdSQfy236-wfk",
     },{
     id: 117,
@@ -2114,7 +2094,7 @@ const albums = [
       "Synth Punk",
       "Electroclash",
     ],
-     rating: 6,
+     rating: 5,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_ll-QdB0F9JNZA5eu6D5bP2iGPpzFDU9cs",
     },{
     id: 121,
@@ -2430,7 +2410,7 @@ const albums = [
     artist: "Stromae",
     year: 2022,
     country: "belgium",
-    colors:["white"],
+    colors:["cyan"],
     genres: [
       "french pop","art pop","Digital cumbia","afrobeats",
     ],
@@ -2470,7 +2450,7 @@ const albums = [
     genres: [
       "progressive rock","art rock","concept album","rock opera"
     ],
-     rating: 5,
+     rating: 6,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_n-lE02j8pQkwGhsL5JLAPvbBAoAmxh9n8",
     },{
     id: 150,
@@ -2532,12 +2512,701 @@ const albums = [
     ],
      rating: 4,
      link: "https://music.youtube.com/playlist?list=OLAK5uy_m4HnYQsXTGTfTl8L7LVKbIr-bF4EZvnzY",
+    },{
+    id: 155,
+    title: "Reclaimer",
+    artist: "Shadow of Intent",
+    year: 2017,
+    country: "usa",
+    colors:["blue"],
+    genres: [
+      "deathcore","melodic death metal","progressive death metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=yAZYe2-1j4s&list=OLAK5uy_ns5ovB176wY9IYc4v9N18IOtQT4lKajpg",
+    },{
+    id: 156,
+    title: "Unsilent Death",
+    artist: "Nails",
+    year: 2010,
+    country: "usa",
+    colors:["white"],
+    genres: [
+      "grindcore","crustpunk","nardcore","powerviolence",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lKN75eDDJDKIydzG4a7X46xwuchMMX5Z4",
+    },{
+    id: 157,
+    title: "Boris at Last -Feedbacker-",
+    artist: "Boris",
+    year: 2003,
+    country: "japan",
+    colors:["white"],
+    genres: [
+      "drone metal","noise","noise rock","post-rock","post-metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mqGtuD_x33ynGpQ85bZ498GDFLX6Z72tI",
+    },{
+    id: 158,
+    title: "fragments",
+    artist: "diedlonely",
+    year: 2024,
+    country: "Russia",
+    colors:["Blue"],
+    genres: [
+      "ambient","chillsynth",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_knH6Vzq17N1lFCNjJKNRvACV3AiCQurkc",
+    },{
+    id: 159,
+    title: "News of the World",
+    artist: "Queen",
+    year: 1977,
+    country: "england",
+    colors:["green"],
+    genres: [
+      "hard rock","glam rock","glam rock","rock and roll",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_np9GpkNyTba7d4krH5tDtKpBGtkE8XgBk",
+    },{
+    id: 160,
+    title: "Animals",
+    artist: "Pink Floyd",
+    year: 1977,
+    country: "england",
+    colors:["brown"],
+    genres: [
+      "progressive rock","art rock","psychedelic rock","concept album",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nCBf4OZxhktV5fD5m1MSPW-MT5Q5X1M3Y",
+    },{
+    id: 161,
+    title: "Rammstein",
+    artist: "Rammstein",
+    year: 2019,
+    country: "germany",
+    colors:["white"],
+    genres: [
+      "Neue Deutsche Härte","Industrial Metal","Alternative Metal",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_l6ccqxiCiDmYyEat5qJygY3ShrGsYNEfQ",
+    },{
+    id: 162,
+    title: "Con todo respeto",
+    artist: "Molotov",
+    year: 2004,
+    country: "mexico",
+    colors:["white"],
+    genres: [
+      "comedy rock","musical parody","hard rock","punk rock",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ncGjBmzRfGHz4ifu7yWWYOcuWJKOQbd9U",
+    },{
+    id: 163,
+    title: "OK Computer",
+    artist: "Radiohead",
+    year: 1997,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "alternative rock","art rock","experimental rock",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4",
+    },{
+    id: 164,
+    title: "Close to the Edge",
+    artist: "Yes",
+    year: 1972,
+    country: "england",
+    colors:["Green"],
+    genres: [
+      "progressive rock","art rock","symphonic rock"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lYv_TpuiFzrPaTq69e0eJdT1XLZT2wyTU",
     },
+{
+    id: 165,
+    title: "The Astrud Gilberto Album",
+    artist: "Astrud Gilberto",
+    year: 1965,
+    country: "brazil",
+    colors:["Blue"],
+    genres: [
+      "bossa nova","jazz","vocal jazz"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nc-yspNlHO2y8I1BMWWkigo5ShX5xYJ4E",
+    },{
+    id: 166,
+    title: "Fear & Hunger OST",
+    artist: "Miro Haverinen",
+    year: 2018,
+    country: "finland",
+    colors:["black"],
+    genres: [
+      "ambient","dark ambient","soundtrack","video game music",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=PLQzzmE3_olsGzb_F3gJC8opjbt085lliN",
+    },{
+    id: 167,
+    title: "The alchemist",
+    artist: "HATAMITSUNAMI",
+    year: 2023,
+    country: "sweden",
+    colors:["green"],
+    genres: [
+      "ambient","ambient", "slushwave", "dreampunk" , "lo-fi",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mPP6zgpyacE0ufrgEz0U4aXtqx1OVBO9c",
+    },{
+    id: 168,
+    title: "Colors",
+    artist: "Between The Buried And Me",
+    year: 2007,
+    country: "USA",
+    colors:["black"],
+    genres: [
+      "Progressive Metal", "Metalcore" ,"Technical Death Metal", "Avant-Garde Metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nlxWjWn5E5RI9rXRzD0naeWTO9LtgE64E",
+    },{
+    id: 169,
+    title: "Barbie Beauty Boutique (full OST) [2003 PC]",
+    artist: "Tom Zehnder",
+    year: 2003,
+    country: "USA",
+    colors:["pink"],
+    genres: [
+      "Video Game Music", "Funky House", "French House", "Library Music",
+    ],
+     rating: 2,
+     link: "https://www.youtube.com/watch?v=EDwBYG39-q0&list=RDEDwBYG39-q0&index=2",
+    },{
+    id: 170,
+    title: "Freddi Fish and the Case of the Missing Kelp Seeds",
+    artist: "George Sanger",
+    year: 1994,
+    country: "USA",
+    colors:["blue"],
+    genres: [
+      "Video Game Music", "Sequencer & Tracker", "Lounge", "Exotica", "Crime Jazz", "Caribbean Music", "Jazz-Funk",
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=53RKsr4euwM&list=RD53RKsr4euwM&start_radio=1",
+    },{
+    id: 171,
+    title: "Sunburst ",
+    artist: "Sunburst",
+    year: 1980,
+    country: "japan",
+    colors:["blue"],
+    genres: [
+      "	Jazz Fusion", "Smooth Jazz", "Jazz-Funk", "Latin Jazz",
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=t0925L5ipXM&list=RD53RKsr4euwM&index=3",
+    },{
+    id: 172,
+    title: "Green Caterpillar",
+    artist: "Masaru Imada",
+    year: 1980,
+    country: "japan",
+    colors:["green"],
+    genres: [
+      "Jazz Fusion", "Jazz-Funk", "Post-Bop"
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=vZLhVLyApNA&list=RD53RKsr4euwM&index=2&pp=8AUB",
+    },{
+    id: 173,
+    title: "Hushwave",
+    artist: "b e g o t t e n 自杀",
+    year: 2018,
+    country: "japan",
+    colors:["blue"],
+    genres: [
+      "Eccojams", "Vaporwave", "Dreampunk", "Slushwave", "Dark Ambient", "Chopped and Screwed", "Hauntology"
+    ],
+     rating: 4,
+     link: "https://www.youtube.com/watch?v=ZXwvfrOgQqc&list=RDZXwvfrOgQqc&start_radio=1",
+    },{
+    id: 174,
+    title: "Between Two Worlds",
+    artist: "Infinity Frequencies",
+    year: 2018,
+    country: "USA",
+    colors:["white"],
+    genres: [
+      "Broken Transmission", "Ambient", "Hauntology", "Minimalism", "Mallsoft"
+    ],
+     rating: 5,
+     link: "https://www.youtube.com/watch?v=YkYKVHqUo8Q&list=RDYkYKVHqUo8Q&start_radio=1",
+    },{
+    id: 175,
+    title: "The Boiling Sea",
+    artist: "Nekrogoblikon",
+    year: 2026,
+    country: "USA",
+    colors:["multicolor"],
+    genres: [
+      	"Melodic Death Metal", "Alternative Metal", "Trance Metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_knY4_H_gy0X_A7opoWKP2YtzsO7Xu15jw",
+    },{
+    id: 176,
+    title: "The Garifuna Collective",
+    artist: "umalali",
+    year: 2008,
+    country: "Belize",
+    colors:["cyan"],
+    genres: [
+      "Garifuna Music", "Punta",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_knY4_H_gy0X_A7opoWKP2YtzsO7Xu15jw",
+    },{
+    id: 177,
+    title: "A Gradual Decline in Morale",
+    artist: "Kim Dracula",
+    year: 2023,
+    country: "USA",
+    colors:["black"],
+    genres: [
+      "Avant-Garde Metal", "Nu Metal", "Alternative Metal", "Funk Metal", "Metalcore", "Trap Metal",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kCnm8ppT0nAR8gf3gC6jEzP1ZDS8qr0k4",
+    },{
+    id: 178,
+    title: "Frizzle Fry",
+    artist: "Primus",
+    year: 1989,
+    country: "USA",
+    colors:["beige"],
+    genres: [
+      "Funk Metal",
+      "Experimental Rock",
+      "Avant-Garde Metal",
+      "Noise Rock",
+      "Math Rock"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nmGNF4WxKUqT2DQ-vXtz5BZ90wnTBI48Y",
+    },{
+    id: 179,
+    title: "Alleycat",
+    artist: "Nucleus",
+    year: 1975,
+    country: "England",
+    colors:["yellow"],
+    genres: [
+      "Jazz Fusion", "Jazz-Funk","Jazz-Rock",
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=giYvwLM-JEo&list=RDgiYvwLM-JEo&start_radio=1",
+    },{
+    id: 180,
+    title: "High School Musical 1 OST",
+    artist: "Walt Disney Records",
+    year: 2006,
+    country: "USA",
+    colors:["red"],
+    genres: [
+      "Teen Pop", "Show Tunes", "Film Soundtrack", "Pop Rock", "Contemporary R&B", "Dance-Pop", "Rock Musical", "Adult Contemporary"
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nYqeYzpBx4WIQgFtNVuLzzc_gEJRQvFeo",
+    },{
+    id: 181,
+    title: "High School Musical 2 OST",
+    artist: "Walt Disney Records",
+    year: 2007,
+    country: "USA",
+    colors:["cyan"],
+    genres: [
+      "Teen Pop", "Show Tunes", "Film Soundtrack", "Pop Rock", "Contemporary R&B", "Dance-Pop", "Rock Musical", "Adult Contemporary"
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=PLwCOF2i7HFdloNZgph77au4WRBeqEd2nB",
+    },{
+    id: 182,
+    title: "The Phantom of the Opera",
+    artist: "Andrew Lloyd Webber",
+    year: 1987,
+    country: "England",
+    colors:["black"],
+    genres: [
+      "Show Tunes", "Opera", "Operetta", "Cinematic Classical"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mciFWKwNuGVLJNUceWTxjYgSQ1h-YYhJI",
+    },{
+    id: 183,
+    title: "The Four Seasons",
+    artist: "Antonio Vivaldi",
+    year: 1730,
+    country: "Italy",
+    colors:["black"],
+    genres: [
+      "Baroque Music", "Concerto"
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mGvXUSqsFvXWG27NDvRvEzDGMY9FqLcHo",
+    },{
+    id: 184,
+    title: "Arirang",
+    artist: "BTS",
+    year: 2026,
+    country: "South Korea",
+    colors:["black"],
+    genres: [
+      "K-Pop", "Pop Rap", "Trap", "Alt-Pop", "Contemporary R&B", "Experimental Hip Hop"
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mGvXUSqsFvXWG27NDvRvEzDGMY9FqLcHo",
+    },{
+    id: 185,
+    title: "Kvelertak",
+    artist: "Kvelertak",
+    year: 2010,
+    country: "norway",
+    colors:["green"],
+    genres: [
+      "Black 'n' Roll", "Hardcore Punk","Black Metal","Blackened Crust", "Crust Punk",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lyaYtZ60vEexxHSjuLWzVoVnRLsAcHqK4",
+    },{
+    id: 186,
+    title: "GFOTV",
+    artist: "GFOTY",
+    year: 2019,
+    country: "london",
+    colors:["multicolor"],
+    genres: [
+      "Electronic", "Art Pop", "Novelty","Jingles", "Progressive Electronic", "Post-Minimalism", "Satire", "MIDI Music",
+    ],
+     rating: 2,
+     link: "https://www.youtube.com/watch?v=kKcg1nO3guE",
+    },{
+    id: 187,
+    title: "Monkey Business",
+    artist: "the Black Eyed Peas",
+    year: 2005,
+    country: "USA",
+    colors:["red"],
+    genres: [
+      "Pop Rap", "Dance-Pop", "Contemporary R&B", "Dance-Pop", "Dancehall"
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mOmDUHvW2nqeg2LMsbItXYDRxePtZhFiQ",
+    },{
+    id: 188,
+    title: "KPop Demon Hunters",
+    artist: "the Black Eyed Peas",
+    year: 2005,
+    country: "USA",
+    colors:["purple"],
+    genres: [
+      "K-Pop", "Film Soundtrack","Dance-Pop", "Trap [EDM]", "Pop Rap", "Contemporary R&B"
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mvB1b-5JvguorHZ7EsoKx3jYDq4VDvt04Q",
+    },{
+    id: 189,
+    title: "pink moon",
+    artist: "Nick Drake",
+    year: 1972,
+    country: "london",
+    colors:["multicolor"],
+    genres: [
+      "Contemporary Folk", "Singer-Songwriter","Folk Baroque", "Loner Folk"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/watch?v=jvLtyyBRITo&list=OLAK5uy_mSbOn6cyrWuZetNPYixAc37HZROz2mQ-c",
+    },{
+    id: 190,
+    title: "meteora",
+    artist: "linkin park",
+    year: 2003,
+    country: "usa",
+    colors:["beige"],
+    genres: [
+      "Nu Metal", "Rap Rock","Alternative Rock", "Electronic",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I",
+    },{
+    id: 191,
+    title: "Glandes Exitos",
+    artist: "Asspera",
+    year: 2019,
+    country: "argentina",
+    colors:["white"],
+    genres: [
+      "Comedy Rock", "Groove Metal", "Thrash Metal", "Alternative Metal",
+    ],
+     rating: 2,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nOQqZ-0cp0e2bVz-IhOutxYe41FmwcVKI",
+    },{
+    id: 192,
+    title: "Garcha2 x to2 la2",
+    artist: "Asspera",
+    year: 2021,
+    country: "argentina",
+    colors:["green"],
+    genres: [
+      "Comedy Rock", "Groove Metal", "Thrash Metal", "Alternative Metal",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n-WXnpVMaZscFo5p5oCcuaymLMHJYAdkM",
+    },{
+    id: 193,
+    title: "El vals del obrero",
+    artist: "ska-p",
+    year: 1996,
+    country: "spain",
+    colors:["red"],
+    genres: [
+      "Ska Punk","Third Wave Ska",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_k3llM8YlLb7aFyN021SZ9rq0N_4zCwVBo",
+    },{
+    id: 194,
+    title: "World of Warcraft",
+    artist: "Jason Hayes",
+    year: 2004,
+    country: "USA",
+    colors:["brown"],
+    genres: [
+      "Video Game Music", "Cinematic Classical", "Orchestral Music", "Ambient", "Choral",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mAeNJ9ZDtX5RbsCajT8rmIP71B13Cg-nQ",
+    },{
+    id: 195,
+    title: "Por este rio acima",
+    artist: "Fausto",
+    year: 1984,
+    country: "USA",
+    colors:["multicolor"],
+    genres: [
+      "Progressive Folk", "Portuguese Folk Music","Singer-Songwriter", "Chamber Folk", "Psychedelic Folk", "Música de intervenção", "Vira",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_nQblM8J6q0IhPb6WseUT3lJmrETYs5nZY",
+    },{
+    id: 196,
+    title: "The Beatles (White Album)",
+    artist: "the Beatles",
+    year: 1968,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "Rock", "Pop Rock", "Experimental Rock", "Folk Rock", "Psychedelic Rock",
+    ],
+     rating: 5,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE",
+    },{
+    id: 197,
+    title: "Nevermind",
+    artist: "Nirvana",
+    year: 1991,
+    country: "usa",
+    colors:["cyan"],
+    genres: [
+      "Grunge", "Alternative Rock", "Post-Grunge", "Hard Rock", "punk rock",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0",
+    },{
+    id: 198,
+    title: "Visions",
+    artist: "Grimes",
+    year: 2012,
+    country: "USA",
+    colors:["white"],
+    genres: [
+      "Synthpop", "Art Pop", "Dream Pop", "Electropop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_li4HDD0-Zi7U2ZoV0PloBp0_OYecytAuE",
+    },{
+    id: 199,
+    title: "Be the Cowboy",
+    artist: "Mitski",
+    year: 2018,
+    country: "japan",
+    colors:["white"],
+    genres: [
+      "Synthpop", "Art Pop", "Dream Pop", "Electropop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n8ZUwEBtBee_ZKIeFt7b3udTOQA_tgG18",
+    },{
+    id: 200,
+    title: "never for ever",
+    artist: "Kate Bush",
+    year: 1980,
+    country: "England",
+    colors:["brown"],
+    genres: [
+      "Synthpop", "Art Pop", "Dream Pop", "Electropop",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n8ZUwEBtBee_ZKIeFt7b3udTOQA_tgG18",
+    },{
+    id: 201,
+    title: "ace of spades",
+    artist: "Motörhead",
+    year: 1980,
+    country: "england",
+    colors:["cyan"],
+    genres: [
+      "Heavy Metal", "Speed Metal", "Hard Rock", "Rock and Roll", 
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lIx4Iql7VCe1fFkFWCyZUXEZOzEJ0igJc",
+    },{
+    id: 202,
+    title: "(What's The Story) Morning Glory? (Remastered)",
+    artist: "Oasis",
+    year: 1995,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "Britpop", "Alternative Rock", "Rock", "Pop Rock",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lGQfnMNGvYCRdDq9ZLzJV2BJL2aHQsz9Y",
+    },{
+    id: 203,
+    title: "The way of all flesh",
+    artist: "gojira",
+    year: 2008,
+    country: "france",
+    colors:["grey"],
+    genres: [
+      "Progressive Death Metal", "Technical Death Metal", "Groove Metal", "Post-Metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n44e6U_lE64sQiG9rUL9viwHgBcESLqHE",
+    },{
+    id: 204,
+    title: "Under the Sign of the Black Mark",
+    artist: "Bathory",
+    year: 1984,
+    country: "sweden",
+    colors:["red"],
+    genres: [
+      "Black Metal", "Viking Metal", "Heavy Metal", "Thrash Metal",
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kRcJ0FlU7EDgvVqTgn804ja_kVxZo0tdo",
+    },{
+    id: 205,
+    title: "Planet Jarre",
+    artist: "Jean-michel jarre",
+    year: 2023,
+    country: "France",
+    colors:["cyan"],
+
+    genres: [
+      "Electronic", "Ambient", "Synthwave", "New Age", "Space Music","New Wave", "Experimental", "Progressive Electronic", "Chillout", "Downtempo",
+    ],
+     rating: 6,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_mh6pr4ge6tupxKqrOIhIq53jcgdNn-MOc",
+    },{
+    id: 206,
+    title: "He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms",
+    artist: "Silver Mt. Zion",
+    year: 1999  ,
+    country: "Canada",
+    colors:["beige"],
+    genres: [
+      "Post-Rock", "Chamber Music", "Modern Classical","Ambient", "Chamber Music",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_n880RRye0i5Fi9Cbmm_n8JLACK3AW6mPA",
+    },{
+    id: 207,
+    title: "Kid A",
+    artist: "Radiohead",
+    year: 2000,
+    country: "england",
+    colors:["white"],
+    genres: [
+      "Art Rock", "Electronic", "Ambient", "IDM", "Post-Rock", "Art Pop"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_lDotrFl8LXo4UMq_XeVB1areFI_b8Par8",
+    } ,{
+    id: 208,
+    title: "Vozraduysya, zemlya!",
+    artist: "Anthropolatri",
+    year: 1998,
+    country: "poland",
+    colors:["green"],
+    genres: [
+      "Pagan Black Metal", "Melodic Black Metal",
+    ],
+     rating: 3,
+     link: "https://www.youtube.com/watch?v=ZulMlydpMRU&list=RDZulMlydpMRU&start_radio=1",
+    },{
+    id: 209,
+    title: "Bergtatt",
+    artist: "Ulver",
+    year: 1994,
+    country: "norway",
+    colors:["purple"],
+
+    genres: [
+      "Atmospheric Black Metal", "Pagan Black Metal","Dark Folk",
+    ],
+     rating: 3,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_kM60OA5Bkezbyt1h0lFgOQHNgpKerHspw",
+    },{
+    id: 210,
+    title: "Gloire Éternelle",
+    artist: "First Fragment",
+    year: 2021,
+    country: "canada",
+    colors:["beige"],
+
+    genres: [
+      "Technical Death Metal", "Neoclassical Metal", "Progressive Metal", "Flamenco", "Power Metal"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/@FirstFragmentQC",
+    },{
+    id: 211,
+    title: "Tragic Kingdom",
+    artist: "No Doubt",
+    year: 1995,
+    country: "USA",
+    colors:["blue"],
+
+    genres: [
+      "Alternative Rock", "Pop Rock", "Third Wave Ska", "Ska Punk", "Power Pop", "New Wave"
+    ],
+     rating: 4,
+     link: "https://music.youtube.com/playlist?list=OLAK5uy_ld5RJrDQIhVAyI1q4i5tn8K_U77MXA8As",
+    }
      
-     
-    
-    
-    
   
 ];
 
